@@ -1,0 +1,193 @@
+{
+ "code": "M457",
+ "connector": "RTO-144",
+ "type": "M457 - Pre-Mixer",
+ "series": null,
+ "contacts": "17 contacts",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "MIC IN 4",
+   "kind": "in",
+   "pair": "A4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "MIC IN 3",
+   "kind": "in",
+   "pair": "A3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "MIC IN 2",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "8",
+   "signal": "MIC IN 1",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "11",
+   "signal": "EXTERNAL IN B",
+   "kind": "in",
+   "pair": "B4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "EXTERNAL IN A",
+   "kind": "in",
+   "pair": "B3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "B MIX OUT",
+   "kind": "out",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "17",
+   "signal": "A MIX OUT",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "A",
+   "signal": "MIC IN 4",
+   "kind": "in",
+   "pair": "A4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "C",
+   "signal": "MIC IN 3",
+   "kind": "in",
+   "pair": "A3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "F",
+   "signal": "MIC IN 2",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "J",
+   "signal": "MIC IN 1",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "M",
+   "signal": "EXTERNAL IN B",
+   "kind": "in",
+   "pair": "B4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "N",
+   "signal": "EXTERNAL IN A",
+   "kind": "in",
+   "pair": "B3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "T",
+   "signal": "B MIX OUT",
+   "kind": "out",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "U",
+   "signal": "A MIX OUT",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M457/M457.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M457/M457.rto144.json"
+ ]
+}
