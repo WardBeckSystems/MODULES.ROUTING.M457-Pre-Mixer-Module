@@ -11,6 +11,15 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Size:** 3,028,972 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 432 × 334 mm, 2000 × 1546 px traced (0.216 mm/px), turned 270°
+- **Ink extent:** 3–432 mm across, 0–334 mm up
+- **Outlines:** line 280 rings, 8,655 straight (12,607 mm) / 952 curved (1,461 mm); text 590 rings, 5,902 straight (7,302 mm) / 1,200 curved (1,792 mm)
+- **Closed boxes:** 70
+
+Every curve, box, word and wire group: [1975 - M457 - Connector layout (traced).json](../PINOUTS/1975%20-%20M457%20-%20Connector%20layout%20%28traced%29.json) (the CAD file: `1975 - M457 - Connector layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 2 words corrected)

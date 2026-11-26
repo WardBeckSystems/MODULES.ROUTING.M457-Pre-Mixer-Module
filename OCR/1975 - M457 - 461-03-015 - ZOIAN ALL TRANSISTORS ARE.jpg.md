@@ -22,7 +22,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Words (OCR):** 149 in 126 lines: R2g JE* CoRI-A · Swi · Sw2 · R3O · 37 RAO 22* · 825 _ · Rig 12 · Ti88 - RIS · Rig _e* · Rib # · Ras · CORS-A
 - **Title block:** (330, 8)–(407, 43) mm: WBS WAAD-BeCK · DRM: · M457 · DATE · 75 · 4 X 2 PRE-Mixer · CKD · MOIHERBOARD · (SCALE · TOLS . · 5-106-06-001
 
-Every curve, box, word and wire group: [1975 - M457 - 461-03-015 - ZOIAN ALL TRANSISTORS ARE (traced).json](../MECHANICAL/1975%20-%20M457%20-%20461-03-015%20-%20ZOIAN%20ALL%20TRANSISTORS%20ARE%20(traced).json) (the CAD file: `1975 - M457 - 461-03-015 - ZOIAN ALL TRANSISTORS ARE (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - 461-03-015 - ZOIAN ALL TRANSISTORS ARE (traced).json](../MECHANICAL/1975%20-%20M457%20-%20461-03-015%20-%20ZOIAN%20ALL%20TRANSISTORS%20ARE%20%28traced%29.json) (the CAD file: `1975 - M457 - 461-03-015 - ZOIAN ALL TRANSISTORS ARE (traced).dxf`).
 
 ## Full text
 

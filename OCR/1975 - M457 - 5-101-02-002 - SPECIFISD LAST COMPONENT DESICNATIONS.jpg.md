@@ -22,7 +22,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Words (OCR):** 131 in 117 lines: Riz · R3 · Pn3S6? · 05 · R31 · Pn3SG9 · CRi Ri6 · CRS R39 · +18v (8k · C6 R2? · HBv (8k · Ci3
 - **Wiring (first pass):** 97 connected wire groups from 764 runs; labelled ends: 88 mm → MatL; 79 mm → NBS, DEL, AmpLIFIER, LB; 70 mm → ISk, NBS; 70 mm → R14, CR3, 03, Pn3569; 60 mm → 215, 22/25, XCom, Ci6
 
-Every curve, box, word and wire group: [1975 - M457 - 5-101-02-002 - SPECIFISD LAST COMPONENT DESICNATIONS (traced).json](../SCHEMATICS/1975%20-%20M457%20-%205-101-02-002%20-%20SPECIFISD%20LAST%20COMPONENT%20DESICNATIONS%20(traced).json) (the CAD file: `1975 - M457 - 5-101-02-002 - SPECIFISD LAST COMPONENT DESICNATIONS (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - 5-101-02-002 - SPECIFISD LAST COMPONENT DESICNATIONS (traced).json](../SCHEMATICS/1975%20-%20M457%20-%205-101-02-002%20-%20SPECIFISD%20LAST%20COMPONENT%20DESICNATIONS%20%28traced%29.json) (the CAD file: `1975 - M457 - 5-101-02-002 - SPECIFISD LAST COMPONENT DESICNATIONS (traced).dxf`).
 
 ## Full text
 

@@ -36,7 +36,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Title block:** (291, 14)–(429, 29) mm: 4oo ICKD · TT · [432 · REDRAWN · WBSs WAAD-BeCK BYBteme · LTD_ · M457
 - **Wiring (first pass):** 177 connected wire groups from 1,010 runs, 2 dotted junctions; labelled ends: 90 mm → Rt; 75 mm → 04; 54 mm → 04; 48 mm → R82; 42 mm → R2 #
 
-Every curve, box, word and wire group: [1975 - 457-02-001 - 4X2 PRE-MIXER SCHEMATIC - DRN DM - ISS 5 (traced).json](../SCHEMATICS/1975%20-%20457-02-001%20-%204X2%20PRE-MIXER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%205%20(traced).json) (the CAD file: `1975 - 457-02-001 - 4X2 PRE-MIXER SCHEMATIC - DRN DM - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 457-02-001 - 4X2 PRE-MIXER SCHEMATIC - DRN DM - ISS 5 (traced).json](../SCHEMATICS/1975%20-%20457-02-001%20-%204X2%20PRE-MIXER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1975 - 457-02-001 - 4X2 PRE-MIXER SCHEMATIC - DRN DM - ISS 5 (traced).dxf`).
 
 ## Full text
 

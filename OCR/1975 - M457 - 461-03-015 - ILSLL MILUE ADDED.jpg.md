@@ -27,7 +27,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Words (OCR):** 191 in 157 lines: R29 JEK IDRI-A · SWi · SW2 · R45 J · 4JeCb - ~c8*24 R25 J · R4O 22* · R2o 28 · R3g !02 · 7i8 · R38 JSK · Rib IEK · R2738 K
 - **Title block:** (293, 11)–(393, 53) mm: WBS WAAD-Beck · DRN: · Dm · M 457 · DATE · CKD · KA( · X2 · Ecale · MOTHERBOARD LAYOUT
 
-Every curve, box, word and wire group: [1975 - M457 - 461-03-015 - ILSLL MILUE ADDED (traced).json](../MECHANICAL/1975%20-%20M457%20-%20461-03-015%20-%20ILSLL%20MILUE%20ADDED%20(traced).json) (the CAD file: `1975 - M457 - 461-03-015 - ILSLL MILUE ADDED (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - 461-03-015 - ILSLL MILUE ADDED (traced).json](../MECHANICAL/1975%20-%20M457%20-%20461-03-015%20-%20ILSLL%20MILUE%20ADDED%20%28traced%29.json) (the CAD file: `1975 - M457 - 461-03-015 - ILSLL MILUE ADDED (traced).dxf`).
 
 ## Full text
 

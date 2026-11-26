@@ -24,7 +24,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Title block:** (307, 6)–(432, 30) mm: WBS WAAD-Beck Bybteme · REDRAWN · 44st · 4*2 · ~MixeR · SCALE · SCHEMAIC · ToLs · LBI · 457-02-001
 - **Wiring (first pass):** 183 connected wire groups from 1,141 runs; labelled ends: 106 mm → 82121, 29, 848, Tvs; 91 mm → R8; 65 mm → Rio? _; 51 mm → 82121, 29; 44 mm → 79, 34
 
-Every curve, box, word and wire group: [1975 - M457 - 457-02-001 - JIO EXTERNAL SUMMNG INOU RIS (traced).json](../SCHEMATICS/1975%20-%20M457%20-%20457-02-001%20-%20JIO%20EXTERNAL%20SUMMNG%20INOU%20RIS%20(traced).json) (the CAD file: `1975 - M457 - 457-02-001 - JIO EXTERNAL SUMMNG INOU RIS (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - 457-02-001 - JIO EXTERNAL SUMMNG INOU RIS (traced).json](../SCHEMATICS/1975%20-%20M457%20-%20457-02-001%20-%20JIO%20EXTERNAL%20SUMMNG%20INOU%20RIS%20%28traced%29.json) (the CAD file: `1975 - M457 - 457-02-001 - JIO EXTERNAL SUMMNG INOU RIS (traced).dxf`).
 
 ## Full text
 

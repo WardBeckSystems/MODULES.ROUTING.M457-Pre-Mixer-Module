@@ -29,7 +29,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Outlines:** line 62 rings, 141 straight (98.4 mm) / 57 curved (55.7 mm); text 21 rings, 202 straight (240 mm) / 46 curved (61.3 mm)
 - **Words (OCR):** 2 in 2 lines: M457 · 4X2 PRE-MIXER
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p1 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p1%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p1 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p1%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -39,7 +39,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p1 (trace
 - **Words (OCR):** 16 in 11 lines: WARD-BECK SYSTEMS · LTD_ · WBS 841 PROGRESS AVENUE, SCARBOROUGH, ONTARIO M1H 2x4 · TELEX; 06-23463 · TELEPHONE; 418/433-8550 · Ma57 · 42 · PRE-MIXER · DESIGN AND · MANUFACTURE · OF PROFESSIONAL AUDIO EQUIPMENT
 - **Title block:** (45, 394)–(264, 430) mm: WARD-BECK SYSTEMS · WBS 841 PROGRESS AVENUE, SCARBOROUGH, ONTARIO M1H 2x4 · TELEX; 06-23463 · TELEPHONE; 418/433-8550
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p2 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p2%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p2 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p2%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -49,7 +49,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p2 (trace
 - **Words (OCR):** 68 in 47 lines: WARD-BECK SYSTEMS LTD_ · TABLE 0F ConTEnTS · M457 42 PRE-MIXER · SECTIon · PAGE · Warranty · Technica] Data · to · 1 -2 · circuit · Description · to
 - **Title block:** (20, 60)–(280, 426) mm: WARD-BECK SYSTEMS LTD_ · TABLE 0F ConTEnTS · M457 42 PRE-MIXER · SECTIon · PAGE · Warranty · Technica] Data · to · 1 -2 · circuit · Description · to · 2 -2 · Application · Examp]es · Parts List · 4-1 
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p3 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p3%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p3 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p3%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -59,7 +59,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p3 (trace
 - **Words (OCR):** 272 in 145 lines: WBS 841 PAOGAESS AVENUE, SCARBOROUGH, ONTARIO · WARD-BECK SYSTEMS LTD_ · M1A 2x4 · TELEX 065-25399 · TELEPHONE · 416,438-6550 · W A R R A N T Y · Al · Ward-Beck Systems · Ltd products are · warranted · against
 - **Title block:** (39, 78)–(260, 416) mm: WBS 841 PAOGAESS AVENUE, SCARBOROUGH, ONTARIO · WARD-BECK SYSTEMS LTD_ · TELEX 065-25399 · TELEPHONE · 416,438-6550 · W A R R A N T Y · Al · Ward-Beck Systems · Ltd products are · warranted · defectiv
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p4 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p4%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p4 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p4%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -69,7 +69,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p4 (trace
 - **Words (OCR):** 150 in 70 lines: WAAD-BECK SySteMS LTD · TECHNICAL DATA · M457 4x2 PRE-MIXER · Input · Sensitivities: · Line: · -15 · to +15 dBm · (ref 600 ohms source · Mic: · -60 to · -30 dBm
 - **Title block:** (21, 404)–(130, 428) mm: WAAD-BECK SySteMS LTD
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p5 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p5%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p5 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p5%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -80,7 +80,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p5 (trace
 - **Words (OCR):** 53 in 36 lines: WARD-BECK SYSTEMS LTD. · TECHNICAL DATA · M457 4x2 · PRE-MIXER · Output Impedance : · Less · than 10 0 ohms · Load · Impedance : · 600 ohms ba ]anced . · Phas ing : · Input
 - **Title block:** (21, 404)–(130, 428) mm: WARD-BECK SYSTEMS LTD.
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p6 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p6%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p6 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p6%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -90,7 +90,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p6 (trace
 - **Words (OCR):** 271 in 129 lines: WARD-BECK SYSTEMS LTD_ · CIRCUIT DESCRIPTION · M457 · 4X2 PRE-MIXER · The M457 PRE-MIXER is · intended to · accept four separate micro - · phone or · ine inputs and · combine them in · the desired · proportion
 - **Title block:** (21, 222)–(139, 426) mm: WARD-BECK SYSTEMS LTD_ · M457 · The M457 PRE-MIXER is · phone or · ine inputs and · to · Produce output s igna ] · an · Two separate · output buses · Preamp] ifier can · required · Preamplifiers · Fou
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p7 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p7%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p7 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p7%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -101,7 +101,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p7 (trace
 - **Words (OCR):** 120 in 60 lines: WARD-BECK · SYSTEMS LTD · CIRCUIT · DESCRIPTIOn · M457 4X2 PRE-MIXER · Summing outputs for buses · a nd · are · brought out at · pins · 14/R and · 15/S
 - **Title block:** (23, 404)–(151, 429) mm: WARD-BECK · SYSTEMS LTD
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p8 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p8%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p8 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p8%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -113,7 +113,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p8 (trace
 - **Words (OCR):** 43 in 41 lines: WARD-BECK · SYSTEMS LTD_ · APPLICATION EXAMPLES · M457 · PRE-MIXER · WM · 15L5 · 14/R · 12X2 · PRE-MXER · M1/m · 15/5
 - **Title block:** (19, 403)–(128, 428) mm: WARD-BECK · SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p9 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p9%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p9 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p9%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -122,7 +122,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p9 (trace
 - **Outlines:** line 126 rings, 1,550 straight (3,772 mm) / 202 curved (289 mm); text 1,335 rings, 10,066 straight (11,956 mm) / 3,316 curved (5,193 mm)
 - **Words (OCR):** 146 in 131 lines: WAAD-BECK SYSTEMS LTD · PARIS LIST · M457 4X2 · PRE-MIXER · PART · DESCRIPTION · MFG PART NUMBER · MFG · Capacitor 22 · uF/25 · Siemens · B41313-45226-2
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p10 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p10%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p10 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p10%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -133,7 +133,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p10 (trac
 - **Words (OCR):** 109 in 94 lines: WARD-BECK SystemS LTD_ · PARTS LIST · M457 4X2 PRE-MIXER · PART · DESCRIPTION · MFG · MFG PART · NUMBER · C36 · Capacitor 47 pF · Phi]ips · 2222-638-70479
 - **Title block:** (21, 64)–(247, 430) mm: WARD-BECK SystemS LTD_ · PARTS LIST · M457 4X2 PRE-MIXER · PART · DESCRIPTION · MFG · MFG PART · C36 · Capacitor 47 pF · Phi]ips · C3 · uF / 35 · Kemet · C38 · 470 pF · Phi]ips · C39 · 1  uF/35 · Keme
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p11 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p11%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p11 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p11%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -142,7 +142,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p11 (trac
 - **Outlines:** line 149 rings, 2,277 straight (3,797 mm) / 322 curved (471 mm); text 480 rings, 4,018 straight (4,738 mm) / 1,137 curved (1,717 mm)
 - **Words (OCR):** 87 in 80 lines: WARD-BECK BYSTEMS LTD · PARTS · LISI · M457 4x2 PRE-MIXER · PART · DESCRIPTion · MFG · MFG PART NUMBER · R10 · De lete · RII · Resistor AW
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p12 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p12%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p12 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p12%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -153,7 +153,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p12 (trac
 - **Words (OCR):** 86 in 81 lines: WARD-BECK SYSTEMS LTD · PARTS · LiST · M457 4X2 · PRE-MIXER · PART · DESCRIPTION · MFG · MFG PART · NUMBER · R45 · Res istor XW
 - **Title block:** (21, 405)–(131, 429) mm: WARD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p13 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p13%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p13 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p13%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -163,7 +163,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p13 (trac
 - **Words (OCR):** 85 in 78 lines: WAAD-BECK SYSTEMS LTD · PARTS LIst · M457 4X2 · PRE-MIXER · PART · DESCRIPTIon · MFG · MFG PART NUMBER · R80 · Resistor · 39 K · Phi]ips
 - **Title block:** (21, 46)–(248, 428) mm: WAAD-BECK SYSTEMS LTD · PARTS LIst · M457 4X2 · PRE-MIXER · PART · DESCRIPTIon · MFG · R80 · Resistor · 39 K · Phi]ips · R81 · 15K · R82 · 1K · 220 · R8 3 · R84 · 47K · R85 · IK · R86 · 620 · R87 · 10
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p14 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p14%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p14 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p14%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -174,7 +174,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p14 (trac
 - **Words (OCR):** 57 in 38 lines: WAAD-BECK SYSTEMS LTD · PARIS LIST · M457 4X2 · PRE-MIXER · PART · DESCRIPTIon · MFG · MFG PART NUMBER · Sw4 · Switch · Schadow · WBS 11-005
 - **Title block:** (21, 146)–(250, 429) mm: WAAD-BECK SYSTEMS LTD · PARIS LIST · M457 4X2 · PRE-MIXER · PART · DESCRIPTIon · MFG · Sw4 · Switch · Schadow · SW5 · SW6 · Sw7 · Sw8 · Integrated Circuit · Nationa 1 · LM2OIAN · 21 · 22 · 23 · 24 · 2
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p15 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p15%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p15 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p15%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -183,7 +183,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p15 (trac
 - **Outlines:** line 64 rings, 1,445 straight (3,620 mm) / 171 curved (279 mm); text 377 rings, 2,902 straight (3,529 mm) / 846 curved (1,333 mm)
 - **Words (OCR):** 56 in 43 lines: WARD-BECK BYSTEMS LTD_ · PARTS LiST · M457 4x2 PRE-MIXER MODULE · CONTROL KNOBS CAPS AND BUTTONS · USED ON · DESCRIPT ION · MFG · MFG PART · NUMBER · R1 ) · Knob · Black
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p16 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p16%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p16 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p16%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -193,7 +193,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p16 (trac
 - **Words (OCR):** 149 in 79 lines: WAAD-BECK · SySTEMS LTD · DESCRIPTION · 5-101 · AMPLIFIER SERIES · The 5 - 101 series 0 f · amp]ifiers are · utilized plug- in units · a 5 · within certain · Ward-Beck Systems · 400 series
 - **Title block:** (20, 305)–(175, 425) mm: WAAD-BECK · SySTEMS LTD · DESCRIPTION · 5-101 · The 5 - 101 series 0 f · amp]ifiers are · within certain · Ward-Beck Systems
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p17 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p17%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p17 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p17%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -204,7 +204,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p17 (trac
 - **Words (OCR):** 149 in 71 lines: WAAD-BECK SYSTeMS LTD_ · DESCRIPTIOn · 5-101 AMPLIFIER · SERIES · The · operation 0 f both · amp]i fier sections is identical _ · OnTy · section · described · one · be
 - **Title block:** (21, 402)–(130, 426) mm: WAAD-BECK SYSTeMS LTD_
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p18 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p18%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p18 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p18%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -214,7 +214,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p18 (trac
 - **Words (OCR):** 82 in 65 lines: WARD-BECK SYSTEMS LTD · PARTS LIst · 5 -101A DUAL BOOSTER · AMPLIFIER · PART DESCRIPTIOn · MFG · MFG PART NUMBER · Capacitor 33 · uF/10 · Kemet · T3900336M010AS · 150
 - **Title block:** (21, 401)–(130, 425) mm: WARD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p19 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p19%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p19 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p19%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -225,7 +225,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p19 (trac
 - **Words (OCR):** 85 in 78 lines: WAAD-BECK SYSTEMS LTD · PARTS LISt · 5-1014 DUAL · BOOSTER AMPL IFIER · DESCRIPTIon · PART · MFG · MFG PART · NUMBER · Philips · RI · Resistor XW
 - **Title block:** (21, 403)–(130, 428) mm: WAAD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p20 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p20%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p20 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p20%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -235,7 +235,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p20 (trac
 - **Words (OCR):** 81 in 62 lines: WAAD-BECK SYSTEMS LTD_ · PARTS LIST · 5 -101A DUAL · BOOSTER · AMPLIFIER · PART DESCRIPTIon · MFG · MFG PART NUMBER · R36 · Resistor · 15K · Phi]ips
 - **Title block:** (21, 78)–(130, 425) mm: WAAD-BECK SYSTEMS LTD_ · 5 -101A DUAL · PART DESCRIPTIon · R36 · Resistor · R37 · R38 · R39 · R4o · R41 · R42 · R43 · R44 · R45 · R46 · R47 · R48 · R49 · Resistor · R50 · R51 · Resistor · R52 · Delete
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p21 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p21%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p21 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p21%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -247,7 +247,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p21 (trac
 - **Words (OCR):** 95 in 70 lines: WBS · M457 · Sensitivity controls · and · outer knobs) · SEN-C-Mix · LEvcL contro · accommodate constant · HIXER · vary · input levc the · settings
 - **Title block:** (146, 0)–(334, 320) mm: WBS · M457 · Sensitivity controls · and · outer knobs) · SEN-C-Mix · LEvcL contro · accommodate constant · HIXER · vary · input levc the · settings · SENS · TiviTY controls · Con= · tro nge · inuous l
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p22 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p22%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p22 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p22%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -261,7 +261,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p22 (trac
 - **Title block:** (283, 7)–(432, 79) mm: 10/77 · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK sYsTEMs · DRN DB · M457 · ENG RKB · 4x2 PRE-MIXER MODULE · CKD · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 457-01 - 001
 - **Wiring (first pass):** 135 connected wire groups from 253 runs; labelled ends: 93 mm → BST; 93 mm → BST; 76 mm → LEVEL, (-1OdB); 74 mm → BST; 74 mm → Mic INPUT, 60/-30dBm
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p23 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p23%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p23 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p23%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -273,7 +273,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p23 (trac
 - **Words (OCR):** 202 in 182 lines: T24v · 24v · R89 · R9o · ISk · ISk · NOTES: · Sw7 · Sw8 · E11 · R102 · 1.USE PCb N? 5-106_
 - **Title block:** (156, 1)–(377, 51) mm: ISS · MOD  CKD · USED ON · MATL. · WBS WARD-BECK bystEMB LTD · 3 IEI7MGB REDRAWN · DRN; · Do · 13547/PKM · DATE MAR 75 · M457 · 3l92 · ML · FINISH · 4 X 2 PRE-MIXER · CKD. · ISCALE · SCHEMATIC · Tois
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p24 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p24%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p24 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p24%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -285,7 +285,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p24 (trac
 - **Dots (junctions):** 2
 - **Words (OCR):** 28 in 23 lines: tg · 44 · 83 · 88 · 23 38 · E8 82 · 28 · {20 · 24 · Z4 Yi · 84 · 84 88
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p25 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p25%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p25 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p25%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -298,7 +298,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p25 (trac
 - **Words (OCR):** 143 in 125 lines: R29 Jek Oori A · Swi · Sk2 · RSO · Rus _ · ~C8?+ R2s _ · 449 · R4o 22* · R2o 2 · R3g · Rig %2 · 7I8_Ris
 - **Title block:** (325, 6)–(400, 39) mm: WBS WAAD-BeCk · DRN: Dm · M 457 · DATE · 75 · 4 X 2 · PRE-MIXER · CKD; · SCALE · MOTHERBOARD · TOLS _ · 5-106-06-001
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p26 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p26%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p26 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p26%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -309,7 +309,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p26 (trac
 - **Closed boxes:** 89; named: B | 2; C|3; H/7; Kl9; L/IO; Mlu; N/12; P/13; R/14; s/15; T/16; 0/17
 - **Words (OCR):** 93 in 57 lines: MIC 4 IN · MC 4 IN · LINE 4 IN B | 2 LINE IN · MIC 3 |N C|3 · MIC 3 |N · LINE · 3 |N · LINE · 3 IN · SHIELD · SHIELD · MIC 2 |N
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p27 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p27%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p27 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p27%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -323,7 +323,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p27 (trac
 - **Title block:** (94, 16)–(299, 85) mm: WBS WAAD-BECK · systeMS LTD. · DRN. · DM · 5_101A · DATE · JAN 75 · AMPLIFIER · DUAL BOOSTE R · CKD_ · Rlc · SCHEMATIC · SCALE · ISS · TOLS_
 - **Wiring (first pass):** 58 connected wire groups from 296 runs; labelled ends: 210 mm → WBS; 175 mm → DRN., DATE, CKD_; 144 mm → 33, R41, Ci4, 22o/10; 137 mm → R?1, +18v 18k, CR5, R39; 115 mm → R35, I5k, CR5, 23
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p28 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p28%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p28 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p28%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -333,7 +333,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p28 (trac
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 3.8 @ (289.1, 164.2), r 3.7 @ (289.5, 154.9), r 3.6 @ (290.3, 261.8)
 - **Words (OCR):** 105 in 92 lines: EXTERNAL · CONNECTion · R12 · ISk · Q1 · Pn3569 · R8 · CRI Ri6 · +8v 18k · 33 · C6 R2? · R5I
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p29 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p29%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p29 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p29%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -346,7 +346,7 @@ Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p29 (trac
 - **Words (OCR):** 124 in 91 lines: Ris EEk · Swg · Rig Ek · RSS EEk · Swio · Eii · R36 Ek · Elo · Swg · Swio · Pin F PIN € · SWg
 - **Title block:** (244, 5)–(399, 41) mm: Iss MOD ICKD · I2343 Geb · USED OM · MATL · WBS WARD-BeCK BYOTEMI · 3 Bl43kER · DRN: DM · M457A · FINISH · DATE JULY 75 PRE-MIXER MASTER MODULE · CKD.Rub _ · LAYOUT · (SCALE · {ie · TOLs · 5-106 -
 
-Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p30 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p30%20(traced).json) (the CAD file: `1975 - M457 - Pre-Mixer Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - Pre-Mixer Module p30 (traced).json](../MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module%20p30%20%28traced%29.json) (the CAD file: `1975 - M457 - Pre-Mixer Module p30 (traced).dxf`).
 
 ## Full text
 

@@ -38,7 +38,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Words (OCR):** 46 in 36 lines: 3.80 · '46 · 96 · 96 · *38 · 328 DIA_ · 4 PLACES · 1.920 · 94 · 35 · "20 · 2-56 ThD
 - **Title block:** (162, 18)–(412, 68) mm: ISS MOD CKD: · USED ON · MATL. · WBS WARD-BECK SYSTEMS LTD_ · WS · 18 GA CRS_ · (.043 Thk) DRN: · GEB · M457 · DATE JUNE 77 · FINISH · TRANSFORMER · Mounting · BRAcKET · PLATE · [SCALE · CAD · 235 · T
 
-Every curve, box, word and wire group: [1977 - 457-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2 (traced).json](../MECHANICAL/1977%20-%20457-03-007%20-%20TRANSFORMER%20MOUNTING%20BRACKET%20-%20DRN%20GEB%20-%20ISS%202%20(traced).json) (the CAD file: `1977 - 457-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 457-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2 (traced).json](../MECHANICAL/1977%20-%20457-03-007%20-%20TRANSFORMER%20MOUNTING%20BRACKET%20-%20DRN%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1977 - 457-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2 (traced).dxf`).
 
 ## Full text
 

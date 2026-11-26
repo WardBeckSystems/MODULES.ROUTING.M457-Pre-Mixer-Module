@@ -20,7 +20,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Words (OCR):** 122 in 77 lines: WBS · M457 · SEnsitivity controis R2, R4 _ · R6 · and R8 (outer knobs) : · order · constant · MIXER · SEN-C-MiX · LEVEL contro · to · accommodate
 - **Title block:** (152, 0)–(393, 412) mm: WBS · M457 · SEnsitivity controis R2, R4 _ · R6 · and R8 (outer knobs) : · order · constant · MIXER · SEN-C-MiX · LEVEL contro · to · accommodate · settings with · ing input · leve I s _ · the SENS I 
 
-Every curve, box, word and wire group: [1975 - M457 - 457-04-005 - THE DES IRED PROPORT ION (traced).json](../MECHANICAL/1975%20-%20M457%20-%20457-04-005%20-%20THE%20DES%20IRED%20PROPORT%20ION%20(traced).json) (the CAD file: `1975 - M457 - 457-04-005 - THE DES IRED PROPORT ION (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - 457-04-005 - THE DES IRED PROPORT ION (traced).json](../MECHANICAL/1975%20-%20M457%20-%20457-04-005%20-%20THE%20DES%20IRED%20PROPORT%20ION%20%28traced%29.json) (the CAD file: `1975 - M457 - 457-04-005 - THE DES IRED PROPORT ION (traced).dxf`).
 
 ## Full text
 

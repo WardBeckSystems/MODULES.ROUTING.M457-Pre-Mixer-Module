@@ -24,7 +24,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Words (OCR):** 27 in 21 lines: JJ · WW · IIss MOD  CKD_ · USED ON · MATL. · WBS WARD-BECK · BYSTEMS LTD_ · DRN: Rul · DATE APR 77 · M457 · FINISH · 4X2
 - **Title block:** (15, 47)–(236, 102) mm: IIss MOD  CKD_ · USED ON · MATL. · WBS WARD-BECK · DRN: Rul · DATE APR 77 · M457 · FINISH · 4X2 · CKD · Reul · CONNECTOR REAR · SCALE · TOLS · 457-04-003
 
-Every curve, box, word and wire group: [1977 - M457 - 457-04-003 - PRE-MIXER CONNECTOR REAR VIEW (traced).json](../PINOUTS/1977%20-%20M457%20-%20457-04-003%20-%20PRE-MIXER%20CONNECTOR%20REAR%20VIEW%20(traced).json) (the CAD file: `1977 - M457 - 457-04-003 - PRE-MIXER CONNECTOR REAR VIEW (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M457 - 457-04-003 - PRE-MIXER CONNECTOR REAR VIEW (traced).json](../PINOUTS/1977%20-%20M457%20-%20457-04-003%20-%20PRE-MIXER%20CONNECTOR%20REAR%20VIEW%20%28traced%29.json) (the CAD file: `1977 - M457 - 457-04-003 - PRE-MIXER CONNECTOR REAR VIEW (traced).dxf`).
 
 ## Full text
 

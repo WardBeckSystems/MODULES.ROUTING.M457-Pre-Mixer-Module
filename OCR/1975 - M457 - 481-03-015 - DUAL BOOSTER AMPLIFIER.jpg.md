@@ -20,7 +20,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Circles and arcs:** 19 circles, 84 arcs; largest r 6.2 @ (203.8, 196.8), r 3.2 @ (304.2, 247.5), r 2.3 @ (208.8, 83.4), r 2.2 @ (304.2, 247.9)
 - **Closed boxes:** 50
 
-Every curve, box, word and wire group: [1975 - M457 - 481-03-015 - DUAL BOOSTER AMPLIFIER (traced).json](../MECHANICAL/1975%20-%20M457%20-%20481-03-015%20-%20DUAL%20BOOSTER%20AMPLIFIER%20(traced).json) (the CAD file: `1975 - M457 - 481-03-015 - DUAL BOOSTER AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - 481-03-015 - DUAL BOOSTER AMPLIFIER (traced).json](../MECHANICAL/1975%20-%20M457%20-%20481-03-015%20-%20DUAL%20BOOSTER%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1975 - M457 - 481-03-015 - DUAL BOOSTER AMPLIFIER (traced).dxf`).
 
 ## Full text
 

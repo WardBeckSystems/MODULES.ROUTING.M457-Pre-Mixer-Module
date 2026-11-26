@@ -26,7 +26,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Words (OCR):** 138 in 123 lines: RraL · Riz · R3 · ISk · 05 · Pn356? · R3i · Pn3SG9 · CRi 836 · CRS R39 · +18/ · {8k
 - **Wiring (first pass):** 93 connected wire groups from 732 runs; labelled ends: 97 mm → 342, 08, R38, Pn3645; 86 mm → MatL; 80 mm → NBS, DEL, JL, AmplifieR; 71 mm → Riz, Pn356?, CRi, 836; 69 mm → R14, CR3, 03, Pn3569
 
-Every curve, box, word and wire group: [1975 - M457 - 5-101-02-002 - ERWISE SPECIFIED LAST COMPONENT DLSIGNATIONS CIO CRA ELL (traced).json](../SCHEMATICS/1975%20-%20M457%20-%205-101-02-002%20-%20ERWISE%20SPECIFIED%20LAST%20COMPONENT%20DLSIGNATIONS%20CIO%20CRA%20ELL%20(traced).json) (the CAD file: `1975 - M457 - 5-101-02-002 - ERWISE SPECIFIED LAST COMPONENT DLSIGNATIONS CIO CRA ELL (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - 5-101-02-002 - ERWISE SPECIFIED LAST COMPONENT DLSIGNATIONS CIO CRA ELL (traced).json](../SCHEMATICS/1975%20-%20M457%20-%205-101-02-002%20-%20ERWISE%20SPECIFIED%20LAST%20COMPONENT%20DLSIGNATIONS%20CIO%20CRA%20ELL%20%28traced%29.json) (the CAD file: `1975 - M457 - 5-101-02-002 - ERWISE SPECIFIED LAST COMPONENT DLSIGNATIONS CIO CRA ELL (traced).dxf`).
 
 ## Full text
 

@@ -33,7 +33,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Words (OCR):** 103 in 65 lines: WBS · M457 · SENS !Tivity controls R2 , · R4 , · and R8 (outer knobs) · order · accommodate constant · MIXER · SEN-C-MiX · LEVEL contro] settings with · input leve Is , the SENS / - · tinuousiY
 - **Title block:** (83, 0)–(224, 239) mm: WBS · M457 · SENS !Tivity controls R2 , · R4 , · and R8 (outer knobs) · order · accommodate constant · MIXER · SEN-C-MiX · LEVEL contro] settings with · input leve Is , the SENS / - · tinuousiY · cont
 
-Every curve, box, word and wire group: [1977 - 457-04-005 - 4X2 PREMIXER MODULE FRONT PANEL - DRN P. Mahoney - ISS 2 (traced).json](../MECHANICAL/1977%20-%20457-04-005%20-%204X2%20PREMIXER%20MODULE%20FRONT%20PANEL%20-%20DRN%20P.%20Mahoney%20-%20ISS%202%20(traced).json) (the CAD file: `1977 - 457-04-005 - 4X2 PREMIXER MODULE FRONT PANEL - DRN P. Mahoney - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 457-04-005 - 4X2 PREMIXER MODULE FRONT PANEL - DRN P. Mahoney - ISS 2 (traced).json](../MECHANICAL/1977%20-%20457-04-005%20-%204X2%20PREMIXER%20MODULE%20FRONT%20PANEL%20-%20DRN%20P.%20Mahoney%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1977 - 457-04-005 - 4X2 PREMIXER MODULE FRONT PANEL - DRN P. Mahoney - ISS 2 (traced).dxf`).
 
 ## Full text
 

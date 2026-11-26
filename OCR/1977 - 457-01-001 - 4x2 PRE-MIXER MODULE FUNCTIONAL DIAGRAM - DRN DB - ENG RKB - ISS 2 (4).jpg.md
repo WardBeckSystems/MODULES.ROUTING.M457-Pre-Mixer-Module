@@ -34,7 +34,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Closed boxes:** 13
 - **Wiring (first pass):** 151 connected wire groups from 488 runs
 
-Every curve, box, word and wire group: [1977 - 457-01-001 - 4x2 PRE-MIXER MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2 (4) (traced).json](../SCHEMATICS/1977%20-%20457-01-001%20-%204x2%20PRE-MIXER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DB%20-%20ENG%20RKB%20-%20ISS%202%20(4)%20(traced).json) (the CAD file: `1977 - 457-01-001 - 4x2 PRE-MIXER MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2 (4) (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 457-01-001 - 4x2 PRE-MIXER MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2 (4) (traced).json](../SCHEMATICS/1977%20-%20457-01-001%20-%204x2%20PRE-MIXER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DB%20-%20ENG%20RKB%20-%20ISS%202%20%284%29%20%28traced%29.json) (the CAD file: `1977 - 457-01-001 - 4x2 PRE-MIXER MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2 (4) (traced).dxf`).
 
 ## Full text
 

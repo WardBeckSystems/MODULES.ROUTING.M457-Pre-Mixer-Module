@@ -22,7 +22,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Words (OCR):** 23 in 21 lines: B0 · (outer · contfoit · ccncro · inouc · runge · cropnont · cnjnnt · 7ixina · LEMEL · indiviouaI Irjuc · used
 - **Title block:** (144, 157)–(219, 178) mm: 10/77 · WBS · WAAD-BECK SYSTEMS · M457 · 4X2 PREMixeR MODULE
 
-Every curve, box, word and wire group: [1975 - M457 - 457-04-005 - CHANNE JIN THE DESIRED PROPORTION IFORM THE OUTPUT (traced).json](../MECHANICAL/1975%20-%20M457%20-%20457-04-005%20-%20CHANNE%20JIN%20THE%20DESIRED%20PROPORTION%20IFORM%20THE%20OUTPUT%20(traced).json) (the CAD file: `1975 - M457 - 457-04-005 - CHANNE JIN THE DESIRED PROPORTION IFORM THE OUTPUT (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - 457-04-005 - CHANNE JIN THE DESIRED PROPORTION IFORM THE OUTPUT (traced).json](../MECHANICAL/1975%20-%20M457%20-%20457-04-005%20-%20CHANNE%20JIN%20THE%20DESIRED%20PROPORTION%20IFORM%20THE%20OUTPUT%20%28traced%29.json) (the CAD file: `1975 - M457 - 457-04-005 - CHANNE JIN THE DESIRED PROPORTION IFORM THE OUTPUT (traced).dxf`).
 
 ## Full text
 

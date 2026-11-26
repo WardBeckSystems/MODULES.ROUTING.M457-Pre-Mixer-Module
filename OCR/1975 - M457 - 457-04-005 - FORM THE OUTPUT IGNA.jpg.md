@@ -20,7 +20,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Words (OCR):** 100 in 69 lines: WBS · M457 · SENS ITivity controls R2 , · R4 , · and R8 (outer knobs) · order · accammodate constant · AIXER · SEN-C-MiX · LEVEL contro · settings with · input leve I$ ,
 - **Title block:** (129, 0)–(346, 369) mm: WBS · M457 · SENS ITivity controls R2 , · R4 , · and R8 (outer knobs) · order · accammodate constant · AIXER · SEN-C-MiX · LEVEL contro · settings with · input leve I$ , · the SENS · nuousiY · contro|
 
-Every curve, box, word and wire group: [1975 - M457 - 457-04-005 - FORM THE OUTPUT IGNA (traced).json](../MECHANICAL/1975%20-%20M457%20-%20457-04-005%20-%20FORM%20THE%20OUTPUT%20IGNA%20(traced).json) (the CAD file: `1975 - M457 - 457-04-005 - FORM THE OUTPUT IGNA (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - 457-04-005 - FORM THE OUTPUT IGNA (traced).json](../MECHANICAL/1975%20-%20M457%20-%20457-04-005%20-%20FORM%20THE%20OUTPUT%20IGNA%20%28traced%29.json) (the CAD file: `1975 - M457 - 457-04-005 - FORM THE OUTPUT IGNA (traced).dxf`).
 
 ## Full text
 

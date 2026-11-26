@@ -23,7 +23,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Title block:** (290, 6)–(432, 80) mm: REDRAWN · 10/77 · JISSUE |DATE · REVISION · WBS · WARD-BECK SYSTEME · DRN DB · M457 · 4x2 PRE-MIXER · MODULE · ENG _ RKB · CKD. · FUNCTIONAL DIAGRAM · APP · ScALE · ISSUE · 457-01 - 001
 - **Wiring (first pass):** 124 connected wire groups from 282 runs; labelled ends: 233 mm → 6-101; 99 mm → BST; 96 mm → BST; 96 mm → BST; 76 mm → INPUT 1, 60/-30 dBm
 
-Every curve, box, word and wire group: [1975 - M457 - 457-01-001 - PRE SUMMING OUTPUT LINE INPUT (traced).json](../SCHEMATICS/1975%20-%20M457%20-%20457-01-001%20-%20PRE%20SUMMING%20OUTPUT%20LINE%20INPUT%20(traced).json) (the CAD file: `1975 - M457 - 457-01-001 - PRE SUMMING OUTPUT LINE INPUT (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - 457-01-001 - PRE SUMMING OUTPUT LINE INPUT (traced).json](../SCHEMATICS/1975%20-%20M457%20-%20457-01-001%20-%20PRE%20SUMMING%20OUTPUT%20LINE%20INPUT%20%28traced%29.json) (the CAD file: `1975 - M457 - 457-01-001 - PRE SUMMING OUTPUT LINE INPUT (traced).dxf`).
 
 ## Full text
 

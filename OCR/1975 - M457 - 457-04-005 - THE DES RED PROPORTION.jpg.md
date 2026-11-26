@@ -20,7 +20,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Words (OCR):** 99 in 68 lines: WBS · M457 · SEnS iTivity controls R2 , · and R8 (outer knobs) : · order · SEN-C-MiX · LEVEL contro · accommodate constant · settings · AIXER · ing nput · leve I $
 - **Title block:** (126, 0)–(318, 328) mm: WBS · M457 · SEnS iTivity controls R2 , · and R8 (outer knobs) : · order · SEN-C-MiX · LEVEL contro · accommodate constant · settings · AIXER · ing nput · leve I $ · the SENS | = · control: · rovide ·
 
-Every curve, box, word and wire group: [1975 - M457 - 457-04-005 - THE DES RED PROPORTION (traced).json](../MECHANICAL/1975%20-%20M457%20-%20457-04-005%20-%20THE%20DES%20RED%20PROPORTION%20(traced).json) (the CAD file: `1975 - M457 - 457-04-005 - THE DES RED PROPORTION (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - 457-04-005 - THE DES RED PROPORTION (traced).json](../MECHANICAL/1975%20-%20M457%20-%20457-04-005%20-%20THE%20DES%20RED%20PROPORTION%20%28traced%29.json) (the CAD file: `1975 - M457 - 457-04-005 - THE DES RED PROPORTION (traced).dxf`).
 
 ## Full text
 

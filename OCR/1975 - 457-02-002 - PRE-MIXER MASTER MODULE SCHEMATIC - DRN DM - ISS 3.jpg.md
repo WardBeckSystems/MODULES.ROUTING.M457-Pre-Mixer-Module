@@ -39,7 +39,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Title block:** (136, 5)–(382, 59) mm: ISS MOD. CKD_ · USED ON · MATL . · '2133 · WBS WAAD-BECK BYSTEMs LTD_ · 3143 · DRN. · DM · DATE MAR 75 PRE-MIXER MASTER · M457A · FINISH · CKD_ Relu · SCALE · SCHEMATIC · TOLS · IG.
 - **Wiring (first pass):** 113 connected wire groups from 408 runs; labelled ends: 177 mm → E4; 149 mm → RioT<, IS, 4k7, C51; 126 mm → R99, Isk, 26, C46; 114 mm → InaOo3, 22/25, 20_, 04; 88 mm → WAAD-BECK, LTD_
 
-Every curve, box, word and wire group: [1975 - 457-02-002 - PRE-MIXER MASTER MODULE SCHEMATIC - DRN DM - ISS 3 (traced).json](../SCHEMATICS/1975%20-%20457-02-002%20-%20PRE-MIXER%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%203%20(traced).json) (the CAD file: `1975 - 457-02-002 - PRE-MIXER MASTER MODULE SCHEMATIC - DRN DM - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 457-02-002 - PRE-MIXER MASTER MODULE SCHEMATIC - DRN DM - ISS 3 (traced).json](../SCHEMATICS/1975%20-%20457-02-002%20-%20PRE-MIXER%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1975 - 457-02-002 - PRE-MIXER MASTER MODULE SCHEMATIC - DRN DM - ISS 3 (traced).dxf`).
 
 ## Full text
 

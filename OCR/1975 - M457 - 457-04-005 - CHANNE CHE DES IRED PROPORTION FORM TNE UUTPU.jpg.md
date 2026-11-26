@@ -21,7 +21,7 @@ Wiki page: [M457](../../../../PAGES/M457.md)
 - **Words (OCR):** 83 in 53 lines: WbS · M457 · Sensitivity contfols · (outer knobs) : · Jno · acconioate · canstant MXER · ord · SEN €mix · LEVEL coniri · inoct · level 5 the
 - **Title block:** (126, 19)–(303, 325) mm: WbS · M457 · Sensitivity contfols · (outer knobs) : · Jno · acconioate · canstant MXER · ord · SEN €mix · LEVEL coniri · inoct · level 5 the · control5 · con · of 30 for each · Tevel con · dividua cna
 
-Every curve, box, word and wire group: [1975 - M457 - 457-04-005 - CHANNE CHE DES IRED PROPORTION FORM TNE UUTPU (traced).json](../MECHANICAL/1975%20-%20M457%20-%20457-04-005%20-%20CHANNE%20CHE%20DES%20IRED%20PROPORTION%20FORM%20TNE%20UUTPU%20(traced).json) (the CAD file: `1975 - M457 - 457-04-005 - CHANNE CHE DES IRED PROPORTION FORM TNE UUTPU (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M457 - 457-04-005 - CHANNE CHE DES IRED PROPORTION FORM TNE UUTPU (traced).json](../MECHANICAL/1975%20-%20M457%20-%20457-04-005%20-%20CHANNE%20CHE%20DES%20IRED%20PROPORTION%20FORM%20TNE%20UUTPU%20%28traced%29.json) (the CAD file: `1975 - M457 - 457-04-005 - CHANNE CHE DES IRED PROPORTION FORM TNE UUTPU (traced).dxf`).
 
 ## Full text
 
