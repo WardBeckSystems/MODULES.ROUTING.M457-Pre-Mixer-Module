@@ -4,13 +4,13 @@ Ward-Beck Systems M457, 1975|8. Wiki page: [M457 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 84 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 45 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 137 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 19 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 23 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 85 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 46 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 14 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 138 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 20 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 24 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 100 |
 
 ## Photos
@@ -61,7 +61,7 @@ Not on Google Drive yet: `1975 - 457-02-002 - PRE-MIXER MASTER MODULE SCHEMATIC 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSjQ1MFlFblhVSlE/view?resourcekey=0-FPDN697IHu0lb8cHmZMoBg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSjQ1MFlFblhVSlE&resourcekey=0-FPDN697IHu0lb8cHmZMoBg" width="240" alt="1975 - M457 - Connector layout.jpg"></a><br><sub>1975|8 · Connector layout</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaWVONmYxRGtxUDA/view?resourcekey=0-qC3uCu6na5fmchXxpf5zZA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaWVONmYxRGtxUDA&resourcekey=0-qC3uCu6na5fmchXxpf5zZA" width="240" alt="1977 - M457 - 457-04-003 - PRE-MIXER CONNECTOR REAR VIEW.jpg"></a><br><sub>1977|10 · 457-04-003 - PRE-MIXER CONNECTOR REAR VIEW · <a href="PINOUTS/1977%20-%20M457%20-%20457-04-003%20-%20PRE-MIXER%20CONNECTOR%20REAR%20VIEW%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSjQ1MFlFblhVSlE/view?resourcekey=0-FPDN697IHu0lb8cHmZMoBg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSjQ1MFlFblhVSlE&resourcekey=0-FPDN697IHu0lb8cHmZMoBg" width="240" alt="1975 - M457 - Connector layout.jpg"></a><br><sub>1975|8 · Connector layout · <a href="PINOUTS/1975%20-%20M457%20-%20Connector%20layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaWVONmYxRGtxUDA/view?resourcekey=0-qC3uCu6na5fmchXxpf5zZA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaWVONmYxRGtxUDA&resourcekey=0-qC3uCu6na5fmchXxpf5zZA" width="240" alt="1977 - M457 - 457-04-003 - PRE-MIXER CONNECTOR REAR VIEW.jpg"></a><br><sub>1977|10 · 457-04-003 - PRE-MIXER CONNECTOR REAR VIEW · <a href="PINOUTS/1977%20-%20M457%20-%20457-04-003%20-%20PRE-MIXER%20CONNECTOR%20REAR%20VIEW%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M457 - RTO-144 Connections.pdf`
@@ -141,6 +141,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1977 - 457-01-001 - 4x2 PRE-MIXER MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2.kicad_sch](KICAD/1977%20-%20457-01-001%20-%204x2%20PRE-MIXER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DB%20-%20ENG%20RKB%20-%20ISS%202.kicad_sch)
 - [1977 - 457-01-002 - PRE-MIXER MASTER MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2.kicad_sch](KICAD/1977%20-%20457-01-002%20-%20PRE-MIXER%20MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DB%20-%20ENG%20RKB%20-%20ISS%202.kicad_sch)
 - [M457.kicad_sym](KICAD/M457.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
