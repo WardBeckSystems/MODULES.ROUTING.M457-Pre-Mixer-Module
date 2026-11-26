@@ -1,0 +1,78 @@
+{
+ "drawing": "Modules/ROUTING/M457/MANUALS/1975 - M457 - Pre-Mixer Module.pdf",
+ "page": 25,
+ "version": 1,
+ "trace": "_traces/1ad43f38a22715a9-p25.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1214, 2000],
+  "mm": [262.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "25", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 262.3, 431.9],
+ "outlines": {
+  "line": {"rings": 462, "straight": {"n": 9838, "mm": 15701.2}, "curved": {"n": 1721, "mm": 2555.8}},
+  "text": {"rings": 626, "straight": {"n": 4423, "mm": 4774.4}, "curved": {"n": 1394, "mm": 1983.4}}
+ },
+ "circles": [
+  {"c": [41.5, 390.2], "r": 4.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [47.5, 123.5], "r": 4.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [55.6, 189.9], "r": 4.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [51.8, 322.9], "r": 3.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [44.5, 256.7], "r": 3.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [224.9, 143.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [93.2, 236.3], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [128.1, 272.7], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [142.9, 352.3, 158.0, 364.4], "w": 15.1, "h": 12.1, "from": "ring"},
+  {"mm": [145.7, 217.8, 160.8, 229.9], "w": 15.1, "h": 12.1, "from": "ring"},
+  {"mm": [148.8, 84.7, 163.9, 96.7], "w": 15.1, "h": 12.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [23.7, 422.5, 34.5, 430.7], "text": "tg"},
+   {"mm": [187.0, 415.8, 207.9, 431.7], "text": "44"},
+   {"mm": [107.1, 400.7, 118.3, 415.3], "text": "83"},
+   {"mm": [189.3, 397.7, 204.5, 410.6], "text": "88"},
+   {"mm": [87.7, 358.2, 119.0, 375.9], "text": "23 38"},
+   {"mm": [160.6, 356.9, 185.5, 372.0], "text": "E8 82"},
+   {"mm": [107.1, 337.7, 117.9, 350.1], "text": "28"},
+   {"mm": [155.9, 332.5, 171.0, 345.9], "text": "{20"},
+   {"mm": [176.6, 334.4, 186.8, 347.4], "text": "24"},
+   {"mm": [25.7, 287.4, 53.3, 300.8], "text": "Z4 Yi"},
+   {"mm": [188.7, 279.4, 212.2, 301.0], "text": "84"},
+   {"mm": [176.6, 263.6, 206.6, 278.8], "text": "84 88"},
+   {"mm": [84.8, 250.7, 95.6, 266.3], "text": "32"},
+   {"mm": [163.4, 222.4, 188.3, 237.0], "text": "28 38"},
+   {"mm": [58.7, 225.6, 75.3, 234.3], "text": "Q4 &"},
+   {"mm": [110.3, 223.2, 121.1, 235.0], "text": "88"},
+   {"mm": [108.6, 195.6, 174.0, 214.9], "text": "28 24{20"},
+   {"mm": [96.3, 131.5, 134.5, 148.8], "text": "83 888"},
+   {"mm": [179.8, 133.6, 190.6, 146.1], "text": "84"},
+   {"mm": [80.3, 123.5, 87.2, 131.7], "text": "81"},
+   {"mm": [93.5, 92.6, 110.1, 108.7], "text": "232"},
+   {"mm": [166.7, 89.0, 191.5, 103.1], "text": "28 88"},
+   {"mm": [111.8, 70.0, 123.7, 82.9], "text": "88"}
+  ]
+ },
+ "dots": [{"c": [47.5, 414.0], "r": 0.9, "lines": 0}, {"c": [50.9, 404.5], "r": 0.9, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 262 × 432 mm, 1214 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–262 mm across, 0–432 mm up",
+  "- **Outlines:** line 462 rings, 9,838 straight (15,701 mm) / 1,721 curved (2,556 mm); text 626 rings, 4,423 straight (4,774 mm) / 1,394 curved (1,983 mm)",
+  "- **Circles and arcs:** 8 circles, 0 arcs; largest r 4.2 @ (41.5, 390.2), r 4.0 @ (47.5, 123.5), r 4.0 @ (55.6, 189.9), r 3.9 @ (51.8, 322.9)",
+  "- **Closed boxes:** 3",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 28 in 23 lines: tg · 44 · 83 · 88 · 23 38 · E8 82 · 28 · {20 · 24 · Z4 Yi · 84 · 84 88"
+ ]
+}

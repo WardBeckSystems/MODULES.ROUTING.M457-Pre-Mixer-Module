@@ -1,0 +1,81 @@
+{
+ "drawing": "Modules/ROUTING/M457/MANUALS/1975 - M457 - Pre-Mixer Module.pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/1ad43f38a22715a9-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.6, 333.3, 426.4],
+ "outlines": {
+  "line": {"rings": 70, "straight": {"n": 1338, "mm": 3252.1}, "curved": {"n": 151, "mm": 220.6}},
+  "text": {"rings": 431, "straight": {"n": 3331, "mm": 3882.9}, "curved": {"n": 859, "mm": 1326.4}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [324.1, 387.3, 326.2, 399.6], "w": 2.2, "h": 12.3, "from": "ring"},
+  {"mm": [324.7, 55.1, 327.1, 67.4], "w": 2.4, "h": 12.3, "from": "ring"}
+ ],
+ "text": {
+  "words": 53,
+  "lines": [
+   {"mm": [28.1, 412.4, 143.6, 419.3], "text": "WARD-BECK SYSTEMS LTD."},
+   {"mm": [134.9, 366.6, 191.7, 374.0], "text": "TECHNICAL DATA"},
+   {"mm": [126.7, 353.6, 159.8, 360.6], "text": "M457 4x2"},
+   {"mm": [162.8, 353.9, 199.5, 360.8], "text": "PRE-MIXER"},
+   {"mm": [38.9, 325.6, 107.3, 333.7], "text": "Output Impedance :"},
+   {"mm": [150.5, 327.1, 167.1, 333.6], "text": "Less"},
+   {"mm": [171.0, 327.1, 224.5, 334.0], "text": "than 10 0 ohms"},
+   {"mm": [38.9, 313.1, 55.5, 320.0], "text": "Load"},
+   {"mm": [58.7, 312.6, 99.3, 320.8], "text": "Impedance :"},
+   {"mm": [151.1, 313.5, 225.0, 320.4], "text": "600 ohms ba ]anced ."},
+   {"mm": [38.2, 298.4, 71.5, 308.4], "text": "Phas ing :"},
+   {"mm": [150.5, 299.7, 171.4, 307.1], "text": "Input"},
+   {"mm": [174.9, 299.7, 215.3, 307.8], "text": "and output"},
+   {"mm": [218.5, 300.5, 255.2, 307.5], "text": "termina] s"},
+   {"mm": [150.5, 292.3, 251.3, 300.7], "text": "des i gnated by numbers are"},
+   {"mm": [254.8, 293.6, 263.4, 300.6], "text": "in"},
+   {"mm": [266.4, 293.2, 288.9, 301.3], "text": "phase _"},
+   {"mm": [62.8, 279.4, 112.3, 287.5], "text": "Requirements"},
+   {"mm": [166.7, 280.2, 187.2, 287.2], "text": "vo]ts"},
+   {"mm": [190.0, 279.6, 203.2, 287.5], "text": "dc ,"},
+   {"mm": [206.6, 279.6, 229.3, 287.7], "text": "50 mA _"},
+   {"mm": [38.9, 280.2, 60.0, 286.7], "text": "Power"},
+   {"mm": [150.5, 278.9, 163.9, 287.1], "text": "+25"},
+   {"mm": [214.0, 266.0, 245.0, 274.6], "text": "Celsius _"},
+   {"mm": [38.9, 266.6, 67.4, 273.6], "text": "Ambient"},
+   {"mm": [71.0, 265.8, 118.7, 273.9], "text": "Temperature:"},
+   {"mm": [158.7, 266.6, 168.0, 273.6], "text": "to"},
+   {"mm": [170.6, 265.8, 211.2, 274.2], "text": "60 degrees"},
+   {"mm": [238.6, 252.4, 276.1, 261.3], "text": "6 .5\" deep"},
+   {"mm": [38.9, 252.6, 83.6, 260.3], "text": "Dimensions :"},
+   {"mm": [170.6, 253.7, 188.5, 260.6], "text": "wide"},
+   {"mm": [210.5, 252.2, 228.2, 260.8], "text": "high"},
+   {"mm": [151.1, 246.1, 211.4, 254.8], "text": "(41 x 178 mm"},
+   {"mm": [166.7, 246.6, 176.0, 253.0], "text": "mm"},
+   {"mm": [222.4, 246.6, 253.3, 254.2], "text": "165 mm) _"},
+   {"mm": [159.1, 10.8, 172.1, 17.3], "text": "1 -2"}
+  ]
+ },
+ "title_block": {"mm": [21.4, 403.7, 129.7, 428.0], "from": "title-block words (training set)", "text": ["WARD-BECK SYSTEMS LTD."]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–333 mm across, 11–426 mm up",
+  "- **Outlines:** line 70 rings, 1,338 straight (3,252 mm) / 151 curved (221 mm); text 431 rings, 3,331 straight (3,883 mm) / 859 curved (1,326 mm)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 53 in 36 lines: WARD-BECK SYSTEMS LTD. · TECHNICAL DATA · M457 4x2 · PRE-MIXER · Output Impedance : · Less · than 10 0 ohms · Load · Impedance : · 600 ohms ba ]anced . · Phas ing : · Input",
+  "- **Title block:** (21, 404)–(130, 428) mm: WARD-BECK SYSTEMS LTD."
+ ]
+}

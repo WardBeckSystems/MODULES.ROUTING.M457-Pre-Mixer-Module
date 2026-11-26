@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/ROUTING/M457/MANUALS/1975 - M457 - Pre-Mixer Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/1ad43f38a22715a9-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 12.8, 333.1, 430.9],
+ "outlines": {
+  "line": {"rings": 21, "straight": {"n": 831, "mm": 2502.5}, "curved": {"n": 68, "mm": 112.9}},
+  "text": {"rings": 195, "straight": {"n": 2163, "mm": 2862.6}, "curved": {"n": 411, "mm": 647.8}},
+  "tb": {"rings": 2, "straight": {"n": 125, "mm": 287.5}, "curved": {"n": 11, "mm": 20.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [120.9, 412.4, 257.4, 421.2], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [260.6, 411.5, 284.6, 421.8], "text": "LTD_"},
+   {"mm": [51.8, 402.7, 282.6, 417.8], "text": "WBS 841 PROGRESS AVENUE, SCARBOROUGH, ONTARIO M1H 2x4"},
+   {"mm": [120.0, 400.7, 169.3, 406.2], "text": "TELEX; 06-23463"},
+   {"mm": [207.7, 399.8, 282.6, 406.6], "text": "TELEPHONE; 418/433-8550"},
+   {"mm": [132.1, 239.2, 184.6, 252.2], "text": "Ma57"},
+   {"mm": [124.1, 227.1, 140.3, 234.1], "text": "42"},
+   {"mm": [144.0, 227.1, 186.5, 234.8], "text": "PRE-MIXER"},
+   {"mm": [78.6, 11.7, 111.0, 16.5], "text": "DESIGN AND"},
+   {"mm": [113.1, 11.7, 152.6, 16.5], "text": "MANUFACTURE"},
+   {"mm": [154.2, 11.7, 251.7, 16.9], "text": "OF PROFESSIONAL AUDIO EQUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [45.1, 394.0, 264.1, 429.9],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS", "WBS 841 PROGRESS AVENUE, SCARBOROUGH, ONTARIO M1H 2x4", "TELEX; 06-23463", "TELEPHONE; 418/433-8550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–333 mm across, 13–431 mm up",
+  "- **Outlines:** line 21 rings, 831 straight (2,502 mm) / 68 curved (113 mm); text 195 rings, 2,163 straight (2,863 mm) / 411 curved (648 mm); tb 2 rings, 125 straight (288 mm) / 11 curved (20.2 mm)",
+  "- **Words (OCR):** 16 in 11 lines: WARD-BECK SYSTEMS · LTD_ · WBS 841 PROGRESS AVENUE, SCARBOROUGH, ONTARIO M1H 2x4 · TELEX; 06-23463 · TELEPHONE; 418/433-8550 · Ma57 · 42 · PRE-MIXER · DESIGN AND · MANUFACTURE · OF PROFESSIONAL AUDIO EQUIPMENT",
+  "- **Title block:** (45, 394)–(264, 430) mm: WARD-BECK SYSTEMS · WBS 841 PROGRESS AVENUE, SCARBOROUGH, ONTARIO M1H 2x4 · TELEX; 06-23463 · TELEPHONE; 418/433-8550"
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "drawing": "Modules/ROUTING/M457/MECHANICAL/1975 - M457 - 457-04-005 - CHANNE JIN THE DESIRED PROPORTION IFORM THE OUTPUT.jpg",
+ "version": 1,
+ "trace": "_traces/289114a6a06b789e.svg",
+ "sheet": {
+  "number": "457-04-005",
+  "title": "Channe Jin The Desired Proportion Iform The Output",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1414, 2000],
+  "mm": [305.3, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 229.1, 431.7],
+ "outlines": {
+  "line": {"rings": 942, "straight": {"n": 6986, "mm": 10054.4}, "curved": {"n": 1305, "mm": 1527.9}},
+  "text": {"rings": 173, "straight": {"n": 788, "mm": 678.3}, "curved": {"n": 286, "mm": 336.0}},
+  "tb": {"rings": 33, "straight": {"n": 233, "mm": 228.8}, "curved": {"n": 39, "mm": 46.9}}
+ },
+ "circles": [
+  {"c": [100.4, 258.0], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [100.8, 326.2], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [100.6, 282.8], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [100.6, 308.5], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [100.3, 250.6], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [100.8, 301.0], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [100.4, 275.7], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [115.5, 326.3], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [115.0, 250.7], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [94.3, 225.0, 122.4, 352.6], "w": 28.1, "h": 127.6, "from": "ring", "words": ["B0", "SeN-"]},
+  {
+   "mm": [147.5, 301.8, 191.7, 325.6],
+   "w": 44.3,
+   "h": 23.7,
+   "from": "ring",
+   "words": ["contfoit", "(outer", "ccncro", "inouc", "runge", "cnjnnt", "cropnont"]
+  },
+  {"mm": [25.0, 285.9, 69.5, 298.8], "w": 44.5, "h": 13.0, "from": "ring", "words": ["7ixina"]},
+  {"mm": [147.2, 255.0, 191.5, 270.5], "w": 44.3, "h": 15.5, "from": "ring", "words": ["LEMEL", "used", "corain", "indiviouaI", "Irjuc"]},
+  {"mm": [208.6, 173.2, 214.8, 176.4], "w": 6.3, "h": 3.2, "from": "ring", "in_title_block": true},
+  {"mm": [175.7, 172.9, 208.3, 176.2], "w": 32.6, "h": 3.2, "from": "ring", "in_title_block": true},
+  {"mm": [169.0, 172.9, 175.3, 176.0], "w": 6.3, "h": 3.1, "from": "ring", "in_title_block": true},
+  {"mm": [162.4, 172.9, 168.6, 176.0], "w": 6.3, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [145.7, 163.5, 214.8, 172.9], "w": 69.1, "h": 9.4, "from": "ring", "words": ["WAAD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [162.1, 150.5, 214.6, 163.9], "w": 52.5, "h": 13.4, "from": "ring", "words": ["M457", "4X2 PREMixeR MODULE", "FRONT", "PANEL"]},
+  {"mm": [145.7, 160.4, 153.7, 163.4], "w": 8.0, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [145.7, 157.2, 161.9, 160.2], "w": 16.2, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [145.7, 153.6, 161.9, 156.7], "w": 16.2, "h": 3.2, "from": "ring"},
+  {"mm": [168.8, 143.8, 214.6, 150.7], "w": 45.8, "h": 6.9, "from": "ring", "words": ["457-04-005"]},
+  {"mm": [145.7, 143.8, 161.9, 150.1], "w": 16.2, "h": 6.3, "from": "ring"}
+ ],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [95.9, 331.2, 103.4, 336.0], "text": "B0"},
+   {"mm": [157.6, 320.0, 165.6, 322.1], "text": "(outer"},
+   {"mm": [164.1, 322.3, 174.9, 324.5], "text": "contfoit"},
+   {"mm": [158.7, 315.6, 166.7, 317.8], "text": "ccncro"},
+   {"mm": [159.3, 313.5, 165.8, 315.6], "text": "inouc"},
+   {"mm": [155.0, 307.0, 161.5, 309.2], "text": "runge"},
+   {"mm": [148.5, 302.7, 158.9, 304.9], "text": "cropnont"},
+   {"mm": [161.5, 304.9, 169.7, 307.0], "text": "cnjnnt"},
+   {"mm": [60.0, 288.9, 68.0, 291.0], "text": "7ixina"},
+   {"mm": [156.5, 267.3, 163.0, 269.4], "text": "LEMEL"},
+   {"mm": [148.5, 260.8, 169.5, 263.0], "text": "indiviouaI Irjuc"},
+   {"mm": [162.6, 263.0, 168.4, 265.1], "text": "used"},
+   {"mm": [174.4, 263.0, 184.2, 265.1], "text": "corain"},
+   {"mm": [108.2, 239.4, 116.2, 243.3], "text": "SeN-"},
+   {"mm": [169.0, 176.4, 174.9, 178.5], "text": "10/77"},
+   {"mm": [149.8, 165.4, 166.5, 169.7], "text": "WBS"},
+   {"mm": [170.3, 166.0, 213.1, 169.9], "text": "WAAD-BECK SYSTEMS"},
+   {"mm": [184.4, 158.5, 193.0, 162.3], "text": "M457"},
+   {"mm": [172.9, 154.6, 204.2, 158.9], "text": "4X2 PREMixeR MODULE"},
+   {"mm": [179.0, 151.3, 197.5, 154.7], "text": "FRONT PANEL"},
+   {"mm": [176.2, 144.4, 195.2, 147.8], "text": "457-04-005"}
+  ]
+ },
+ "title_block": {
+  "mm": [143.7, 156.8, 219.1, 178.4],
+  "from": "title-block words (training set)",
+  "text": ["10/77", "WBS", "WAAD-BECK SYSTEMS", "M457", "4X2 PREMixeR MODULE"]
+ },
+ "dots": [{"c": [107.7, 228.0], "r": 1.2, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout 457-04-005, size B (assumed) 305 × 432 mm, 1414 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–229 mm across, 0–432 mm up",
+  "- **Outlines:** line 942 rings, 6,986 straight (10,054 mm) / 1,305 curved (1,528 mm); text 173 rings, 788 straight (678 mm) / 286 curved (336 mm); tb 33 rings, 233 straight (229 mm) / 39 curved (46.9 mm)",
+  "- **Circles and arcs:** 9 circles, 0 arcs; largest r 2.7 @ (100.4, 258.0), r 2.7 @ (100.8, 326.2), r 2.7 @ (100.6, 282.8), r 2.7 @ (100.6, 308.5)",
+  "- **Closed boxes:** 15 (7 in the title block); named: B0 SeN-; contfoit (outer ccncro inouc runge cnjnn; 7ixina; LEMEL used corain indiviouaI Irjuc; M457 4X2 PREMixeR MODULE FRONT PANEL; 457-04-005",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 23 in 21 lines: B0 · (outer · contfoit · ccncro · inouc · runge · cropnont · cnjnnt · 7ixina · LEMEL · indiviouaI Irjuc · used",
+  "- **Title block:** (144, 157)–(219, 178) mm: 10/77 · WBS · WAAD-BECK SYSTEMS · M457 · 4X2 PREMixeR MODULE"
+ ]
+}

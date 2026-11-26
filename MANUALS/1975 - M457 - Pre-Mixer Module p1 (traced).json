@@ -1,0 +1,35 @@
+{
+ "drawing": "Modules/ROUTING/M457/MANUALS/1975 - M457 - Pre-Mixer Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/1ad43f38a22715a9-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.1, 50.3, 316.1, 427.5],
+ "outlines": {
+  "line": {"rings": 62, "straight": {"n": 141, "mm": 98.4}, "curved": {"n": 57, "mm": 55.7}},
+  "text": {"rings": 21, "straight": {"n": 202, "mm": 240.0}, "curved": {"n": 46, "mm": 61.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {"words": 2, "lines": [{"mm": [227.8, 104.1, 242.2, 110.5], "text": "M457"}, {"mm": [214.8, 93.9, 259.1, 100.9], "text": "4X2 PRE-MIXER"}]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–316 mm across, 50–428 mm up",
+  "- **Outlines:** line 62 rings, 141 straight (98.4 mm) / 57 curved (55.7 mm); text 21 rings, 202 straight (240 mm) / 46 curved (61.3 mm)",
+  "- **Words (OCR):** 2 in 2 lines: M457 · 4X2 PRE-MIXER"
+ ]
+}
