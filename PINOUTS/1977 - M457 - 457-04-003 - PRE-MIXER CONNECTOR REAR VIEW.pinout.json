@@ -1,0 +1,589 @@
+{
+ "schema": "wbs-pinout/1",
+ "picture": "1977 - M457 - 457-04-003 - PRE-MIXER CONNECTOR REAR VIEW.jpg",
+ "module": "M457",
+ "applies_to": [
+  "M457"
+ ],
+ "pinout": true,
+ "drawing": {
+  "number": "457-04-003",
+  "title": "M457 4X2 PRE-MIXER CONNECTOR REAR VIEW",
+  "date": "1977-04",
+  "issue": "2",
+  "drawn": null
+ },
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "A",
+   "also": null,
+   "as_drawn": "MIC 4 IN",
+   "signal": "MIC 4 IN",
+   "kind": "in",
+   "port": "MIC 4 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "1",
+   "also": null,
+   "as_drawn": "MIC 4 IN",
+   "signal": "MIC 4 IN",
+   "kind": "in",
+   "port": "MIC 4 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "also": null,
+   "as_drawn": "LINE 4 IN",
+   "signal": "LINE 4 IN",
+   "kind": "in",
+   "port": "LINE 4 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "also": null,
+   "as_drawn": "LINE 4 IN",
+   "signal": "LINE 4 IN",
+   "kind": "in",
+   "port": "LINE 4 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "also": null,
+   "as_drawn": "MIC 3 IN",
+   "signal": "MIC 3 IN",
+   "kind": "in",
+   "port": "MIC 3 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "also": null,
+   "as_drawn": "MIC 3 IN",
+   "signal": "MIC 3 IN",
+   "kind": "in",
+   "port": "MIC 3 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "also": null,
+   "as_drawn": "LINE 3 IN",
+   "signal": "LINE 3 IN",
+   "kind": "in",
+   "port": "LINE 3 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "also": null,
+   "as_drawn": "LINE 3 IN",
+   "signal": "LINE 3 IN",
+   "kind": "in",
+   "port": "LINE 3 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "also": null,
+   "as_drawn": "SHIELD",
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield"
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "also": null,
+   "as_drawn": "SHIELD",
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield"
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "also": null,
+   "as_drawn": "MIC 2 IN",
+   "signal": "MIC 2 IN",
+   "kind": "in",
+   "port": "MIC 2 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "also": null,
+   "as_drawn": "MIC 2 IN",
+   "signal": "MIC 2 IN",
+   "kind": "in",
+   "port": "MIC 2 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "also": null,
+   "as_drawn": "LINE 2 IN",
+   "signal": "LINE 2 IN",
+   "kind": "in",
+   "port": "LINE 2 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "also": null,
+   "as_drawn": "LINE 2 IN",
+   "signal": "LINE 2 IN",
+   "kind": "in",
+   "port": "LINE 2 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "also": null,
+   "as_drawn": "MIC 1 IN",
+   "signal": "MIC 1 IN",
+   "kind": "in",
+   "port": "MIC 1 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "also": null,
+   "as_drawn": "MIC 1 IN",
+   "signal": "MIC 1 IN",
+   "kind": "in",
+   "port": "MIC 1 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "also": null,
+   "as_drawn": "LINE 1 IN",
+   "signal": "LINE 1 IN",
+   "kind": "in",
+   "port": "LINE 1 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "also": null,
+   "as_drawn": "LINE 1 IN",
+   "signal": "LINE 1 IN",
+   "kind": "in",
+   "port": "LINE 1 IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "also": null,
+   "as_drawn": "SHIELD",
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield"
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "also": null,
+   "as_drawn": "SHIELD",
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield"
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "also": null,
+   "as_drawn": "'B' EXTERNAL INPUT",
+   "signal": "B EXTERNAL INPUT",
+   "kind": "in",
+   "port": "B EXTERNAL INPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "also": null,
+   "as_drawn": "'B' EXTERNAL INPUT",
+   "signal": "B EXTERNAL INPUT",
+   "kind": "in",
+   "port": "B EXTERNAL INPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "also": null,
+   "as_drawn": "'A' EXTERNAL INPUT",
+   "signal": "A EXTERNAL INPUT",
+   "kind": "in",
+   "port": "A EXTERNAL INPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "also": null,
+   "as_drawn": "'A' EXTERNAL INPUT",
+   "signal": "A EXTERNAL INPUT",
+   "kind": "in",
+   "port": "A EXTERNAL INPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "also": null,
+   "as_drawn": "TO 'A' MIXER BUSS",
+   "signal": "TO A MIXER BUSS",
+   "kind": "bus",
+   "port": "TO A MIXER BUSS",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "also": null,
+   "as_drawn": "TO 'A' MIXER BUSS",
+   "signal": "TO A MIXER BUSS",
+   "kind": "bus",
+   "port": "TO A MIXER BUSS",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "also": null,
+   "as_drawn": "TO 'B' MIXER BUSS",
+   "signal": "TO B MIXER BUSS",
+   "kind": "bus",
+   "port": "TO B MIXER BUSS",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "also": null,
+   "as_drawn": "TO 'B' MIXER BUSS",
+   "signal": "TO B MIXER BUSS",
+   "kind": "bus",
+   "port": "TO B MIXER BUSS",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "also": null,
+   "as_drawn": "'B' MIX OUT",
+   "signal": "B MIX OUT",
+   "kind": "out",
+   "port": "B MIX OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "also": null,
+   "as_drawn": "'B' MIX OUT",
+   "signal": "B MIX OUT",
+   "kind": "out",
+   "port": "B MIX OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "also": null,
+   "as_drawn": "'A' MIX OUT",
+   "signal": "A MIX OUT",
+   "kind": "out",
+   "port": "A MIX OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "also": null,
+   "as_drawn": "'A' MIX OUT",
+   "signal": "A MIX OUT",
+   "kind": "out",
+   "port": "A MIX OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "also": null,
+   "as_drawn": "-25V",
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "also": null,
+   "as_drawn": "25V COM",
+   "signal": "25 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "also": null,
+   "as_drawn": "+25V",
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "also": null,
+   "as_drawn": "CHASSIS",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "MIC 4 IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-A",
+    "b": "P1-1"
+   }
+  },
+  {
+   "name": "LINE 4 IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-B",
+    "b": "P1-2"
+   }
+  },
+  {
+   "name": "MIC 3 IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-C",
+    "b": "P1-3"
+   }
+  },
+  {
+   "name": "LINE 3 IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-D",
+    "b": "P1-4"
+   }
+  },
+  {
+   "name": "MIC 2 IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-F",
+    "b": "P1-6"
+   }
+  },
+  {
+   "name": "LINE 2 IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-H",
+    "b": "P1-7"
+   }
+  },
+  {
+   "name": "MIC 1 IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-J",
+    "b": "P1-8"
+   }
+  },
+  {
+   "name": "LINE 1 IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-K",
+    "b": "P1-9"
+   }
+  },
+  {
+   "name": "B EXTERNAL INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-M",
+    "b": "P1-11"
+   }
+  },
+  {
+   "name": "A EXTERNAL INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-N",
+    "b": "P1-12"
+   }
+  },
+  {
+   "name": "TO A MIXER BUSS",
+   "dir": "bus",
+   "pins": {
+    "a": "P1-R",
+    "b": "P1-14"
+   }
+  },
+  {
+   "name": "TO B MIXER BUSS",
+   "dir": "bus",
+   "pins": {
+    "a": "P1-S",
+    "b": "P1-15"
+   }
+  },
+  {
+   "name": "B MIX OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-T",
+    "b": "P1-16"
+   }
+  },
+  {
+   "name": "A MIX OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-U",
+    "b": "P1-17"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [],
+ "unread": [
+  "DRN. and CKD. are signatures (not legible as names)"
+ ],
+ "confidence": "high",
+ "notes": "Single 22-way edge connector, rear view; the drawing names none, so it is called P1. Letters A-Z (no G, I, O, Q) and numbers 1-22 are opposite contacts, each labelled separately. Signal rows carry the same label on letter and number contact (e.g. A and 1 both 'MIC 4 IN'): read as balanced pairs, but no +/- polarity is drawn, so ports use 'a' (letter) / 'b' (number) and polarity is null. Two shield rows (E/5 and L/10) are drawn without saying which inputs they serve, so they are left with no port. 'TO A/B MIXER BUSS' (R/14, S/15) recorded as bus; 'A/B MIX OUT' (U/17, T/16) as outputs; 'A/B EXTERNAL INPUT' (N/12, M/11) as inputs. No insert is drawn. Power only on the number side: 19 -25V, 20 25V COM, 21 +25V, 22 CHASSIS; W-Z NC. Legend: NC = NOT CONNECTED. Title block: Ward-Beck Systems Ltd., M457 4X2 PRE-MIXER CONNECTOR REAR VIEW, 457-04-003, size A, ISS. 2, DATE APR 77, DRN. and CKD. signed (signature). Scan of the bound manual page, rotated 90 degrees; the facing page (faint mirror-image show-through of a schematic) is not part of this pinout. Same content as the 'Connector layout' copy."
+}

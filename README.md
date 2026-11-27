@@ -202,26 +202,54 @@ Not on Google Drive yet: `M457 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-17 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 2 pinout pictures (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 16 of 16 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | MIC IN 4 | in | A4 + | high |
-| 3 | MIC IN 3 | in | A3 + | high |
-| 6 | MIC IN 2 | in | A2 + | high |
-| 8 | MIC IN 1 | in | A1 + | high |
-| 11 | EXTERNAL IN B | in | B4 + | high |
-| 12 | EXTERNAL IN A | in | B3 + | high |
-| 16 | B MIX OUT | out | B2 + | high |
-| 17 | A MIX OUT | out | B1 + | high |
-| A | MIC IN 4 | in | A4 - | high |
-| C | MIC IN 3 | in | A3 - | high |
-| F | MIC IN 2 | in | A2 - | high |
-| J | MIC IN 1 | in | A1 - | high |
-| M | EXTERNAL IN B | in | B4 - | high |
-| N | EXTERNAL IN A | in | B3 - | high |
-| T | B MIX OUT | out | B2 - | high |
-| U | A MIX OUT | out | B1 - | high |
+| 1 | MIC 4 IN | in | MIC 4 IN | high |
+| 2 | LINE 4 IN | in | LINE 4 IN | high |
+| 3 | MIC 3 IN | in | MIC 3 IN | high |
+| 4 | LINE 3 IN | in | LINE 3 IN | high |
+| 5 | SHIELD | shield | shield | high |
+| 6 | MIC 2 IN | in | MIC 2 IN | high |
+| 7 | LINE 2 IN | in | LINE 2 IN | high |
+| 8 | MIC 1 IN | in | MIC 1 IN | high |
+| 9 | LINE 1 IN | in | LINE 1 IN | high |
+| 10 | SHIELD | shield | shield | high |
+| 11 | B EXTERNAL INPUT | in | B EXTERNAL INPUT | high |
+| 12 | A EXTERNAL INPUT | in | A EXTERNAL INPUT | high |
+| 13 | N/C | nc |  | high |
+| 14 | TO A MIXER BUSS | bus | TO A MIXER BUSS | high |
+| 15 | TO B MIXER BUSS | bus | TO B MIXER BUSS | high |
+| 16 | B MIX OUT | out | B MIX OUT | high |
+| 17 | A MIX OUT | out | A MIX OUT | high |
+| 18 | N/C | nc |  | high |
+| 19 | -25 V | power |  | high |
+| 20 | 25 V COMMON | ground |  | high |
+| 21 | +25 V | power |  | high |
+| 22 | CHASSIS | ground |  | high |
+| A | MIC 4 IN | in | MIC 4 IN | high |
+| B | LINE 4 IN | in | LINE 4 IN | high |
+| C | MIC 3 IN | in | MIC 3 IN | high |
+| D | LINE 3 IN | in | LINE 3 IN | high |
+| E | SHIELD | shield | shield | high |
+| F | MIC 2 IN | in | MIC 2 IN | high |
+| H | LINE 2 IN | in | LINE 2 IN | high |
+| J | MIC 1 IN | in | MIC 1 IN | high |
+| K | LINE 1 IN | in | LINE 1 IN | high |
+| L | SHIELD | shield | shield | high |
+| M | B EXTERNAL INPUT | in | B EXTERNAL INPUT | high |
+| N | A EXTERNAL INPUT | in | A EXTERNAL INPUT | high |
+| P | N/C | nc |  | high |
+| R | TO A MIXER BUSS | bus | TO A MIXER BUSS | high |
+| S | TO B MIXER BUSS | bus | TO B MIXER BUSS | high |
+| T | B MIX OUT | out | B MIX OUT | high |
+| U | A MIX OUT | out | A MIX OUT | high |
+| V | N/C | nc |  | high |
+| W | N/C | nc |  | high |
+| X | N/C | nc |  | high |
+| Y | N/C | nc |  | high |
+| Z | N/C | nc |  | high |
 
 ## Manuals and documents
 
