@@ -1,0 +1,258 @@
+{
+ "module": "M457",
+ "title": "M457 4x2 PRE-MIXER",
+ "source": {
+  "file": "MANUALS/1975 - M457 - Pre-Mixer Module.pdf",
+  "page": 5
+ },
+ "ocr_quality": 1.0,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivities",
+   "key": "input_sensitivity",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "Mic: -15 to +15 dBm (ref 600 ohms 60 to -30 dBm ref 150 ohms source): source (Sensitivity continuous Ty adjustab 1e over 30 dB range.)",
+     "quantities": [
+      {
+       "from": -15,
+       "to": 15,
+       "unit": "dBm"
+      },
+      {
+       "value": 600,
+       "unit": "ohms"
+      },
+      {
+       "from": 60,
+       "to": -30,
+       "unit": "dBm"
+      },
+      {
+       "value": 150,
+       "unit": "ohms"
+      },
+      {
+       "value": 30,
+       "unit": "dB"
+      }
+     ],
+     "key": "line"
+    }
+   ]
+  },
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "Mic: 15 dB maximum (matched gain) 60 dB maximum (transducer gain)",
+     "quantities": [
+      {
+       "value": 15,
+       "unit": "dB"
+      },
+      {
+       "value": 60,
+       "unit": "dB"
+      }
+     ],
+     "key": "line"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "f1.0 dB from 30 Hz to 20 kHz (tailored ro]1-0 ff)",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "dB"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "-122 dBm EIn at maximum SENSITIVity (20 Hz to 20 kHz)",
+   "quantities": [
+    {
+     "value": -122,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0, 5% THD from 50 Hz to 15 kHz at +18 dBm output.",
+   "quantities": [
+    {
+     "value": 5,
+     "unit": "%"
+    },
+    {
+     "value": 50,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input levels",
+   "key": "input_level",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "at maximum sensitivity: at minimum sensitivity -15 dBm nomina] +15 dBm nomina 1 +10 dBm maximum_ +30 dBm maximum",
+     "quantities": [
+      {
+       "value": -15,
+       "unit": "dBm"
+      },
+      {
+       "value": 15,
+       "unit": "dBm"
+      },
+      {
+       "value": 10,
+       "unit": "dBm"
+      },
+      {
+       "value": 30,
+       "unit": "dBm"
+      }
+     ],
+     "key": "line"
+    },
+    {
+     "name": "Mic",
+     "text": "at maximum sensitivity: at minimum sensitivity: 60 dBm nomina 1 -35 dBm maximum. -30 dBm nomina ] -8 dBm maximum",
+     "quantities": [
+      {
+       "value": 60,
+       "unit": "dBm"
+      },
+      {
+       "from": 1,
+       "to": 35,
+       "unit": "dBm"
+      },
+      {
+       "value": -30,
+       "unit": "dBm"
+      },
+      {
+       "value": -8,
+       "unit": "dBm"
+      }
+     ],
+     "key": "mic"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "Mic: 30 000 ohms 750 ohms",
+     "quantities": [
+      {
+       "value": 0,
+       "unit": "ohms"
+      },
+      {
+       "value": 750,
+       "unit": "ohms"
+      }
+     ],
+     "key": "line"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Line mic",
+     "text": "150/600 ohms ba Tanced/unba ]anced_ 150 ohms ba anced/unba Lanced",
+     "quantities": [
+      {
+       "value": 600,
+       "unit": "ohms"
+      },
+      {
+       "value": 150,
+       "unit": "ohms"
+      }
+     ],
+     "key": "line_mic"
+    },
+    {
+     "name": "Output level",
+     "text": "10 dBm nomina ] +22 dBm max imum_ I -1",
+     "quantities": [
+      {
+       "value": 10,
+       "unit": "dBm"
+      },
+      {
+       "value": 22,
+       "unit": "dBm"
+      }
+     ],
+     "key": "output_level"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1975 - M457 - P3.jpg",
+   "page": 1
+  },
+  {
+   "file": "MANUALS/1975 - M457 - Pre-Mixer Module.pdf",
+   "page": 6
+  },
+  {
+   "file": "MANUALS/1975 - M457 - P4.jpg",
+   "page": 1
+  }
+ ]
+}

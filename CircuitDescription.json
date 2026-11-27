@@ -1,0 +1,159 @@
+{
+ "module": "M457",
+ "source": {
+  "file": "MANUALS/1975 - M457 - Pre-Mixer Module.pdf",
+  "pages": [
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ]
+ },
+ "ocr_quality": 0.82,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": "42 PRE-MIXER",
+   "paragraphs": [
+    "The M457 PRE-MIXER is intended to accept four separate microphone or Tine inputs and combine them 1n the desired proportion to produce an output 5 igna 1 Two separate output buses are provided ('A and B '). Each preampli fier can feed either one or both output buses as maybe required Preamplifiers Four identical Preamplifiers are contained in the M457 to ilustrate preamp] i fier number consists of Q1 Q2, 21 and associated components _ R2 is continuous Ty variable SENSItIVIty contro] permitting 30 dB input Teve] variation in order to accommodate constant MIXER LEVEL contro] settings _ Thus the SENSITiVity contro 1 permits operation with microphone Teve] s from -60 to -30 dBm or ine Teve] s from -15 to +15 dBm. RI is the MIXER LEVEL contro] norma ] ly positioned with 10 dB \"in hand\" When the Tine input is to be used 150 ohm resistor is externa ]Iy connected across pins and A of the edge connector The amplifier wil] then present bridging input 30k ohm) to the source External Summing Inputs 27/28 and 25/26 allow for externa ] summing or combining inputs to be injected into theA and B mixing buses respectively _ These inputs are designed to accept the outputs of other M457 pre-mixers In this way, it is possible to form 8 X2, 12X2 or Target pre-mixer groups 5 -101A BOOSTER Amplifier The 5 -101A DUAL BOOSTER AMPLIFIER mixes the four Preamp] i fier outputs as well a $ the outputs of 25/26 and 27/28 Assignment switches SwI through Sw8 determine the routing of the preampli fier outputs to either A and/or B mixing buses The 'A and B outputs of the 5 -101A appear at pins 17/U and 16 /T respectively The output level at these points is -10 dBm nomina Tly."
+   ]
+  },
+  {
+   "heading": "4X2 PRE-MIXER",
+   "paragraphs": [
+    "Summing outputs for buses 'A and Bare brought out at pins 14/R and 15/S Thes terminals maybe para ] Te 1ed with the 5 umming outputs of other pre-mixers to form pre-mixer groups a $ explained earlier and may subsequently be fed to termina ] s 12/N and 11/M of another pre-mixer the output of which Will then produce the combined mix of aj1 inputs_ Alternatively the para ]elTed suMMing outputs maybe used to feed an M457A MASTER MIXER or any other suitable summing input within the console system Power Supply Decoupling C1 through C4 together with RI1 and R12 form passive on-board power supply decoup] ing circuit CRI and CR2 prevent modu ]e damage in the event of accident] po Parity reverse]"
+   ]
+  },
+  {
+   "heading": "WM 12IN",
+   "paragraphs": [
+    "15/5"
+   ]
+  },
+  {
+   "heading": "12 X2 PRE-MXER",
+   "paragraphs": [
+    "12 1"
+   ]
+  },
+  {
+   "heading": "M 1",
+   "paragraphs": [
+    "11/m 12IN",
+    "OUTPUt (-10 dBm)"
+   ]
+  },
+  {
+   "heading": "1 16L1",
+   "paragraphs": [
+    "B\" OUTPUT (-10 dBm) 8X2 PRE_MXER with MASTER output 11/M 12/n 15/5"
+   ]
+  },
+  {
+   "heading": "6 F",
+   "paragraphs": [
+    "OUtPut (+8 dBm)"
+   ]
+  },
+  {
+   "heading": "11/M 12/N",
+   "paragraphs": [
+    "15/5 2/8 40",
+    "B\" OUTPUt (+8 dBm)"
+   ]
+  },
+  {
+   "heading": "PART",
+   "paragraphs": [
+    "DESCRIPTIOn"
+   ]
+  },
+  {
+   "heading": "MFG PART NUMBER",
+   "paragraphs": [
+    "Capacitor 22 uF/25 V Siemens"
+   ]
+  },
+  {
+   "heading": "B41313-45226-2",
+   "paragraphs": [
+    "0 E6 C9 C10 C11 C12 C]3 C14 C15 100 uF/25 V Philips"
+   ]
+  },
+  {
+   "heading": "426ETF]00",
+   "paragraphs": [
+    "680 pF 2222-630-03681 47 pF uF/35 470 pF uF/ 35 V 68 pF 2222-638-70479 T390B105M0354S 2222-630-03471 T390B105M035AS 2222-638-70689 Kemet Philips Kemet Philips 6.8 pF 10 uF/25 V 150 uF/ 6 V 2222-638-09688 T390C106M025AS T390E157m006as Kemet Delete Capacitor 680 pF Philips 2222-630-03681"
+   ]
+  },
+  {
+   "heading": "C]6 C17 C18 C19 C20",
+   "paragraphs": [
+    "47 pF uF/35 V 470 pF 1 uF/35 V 68 pF 2222-638-70479 T390B105M035AS 2222-630-03471 T390B105M035AS 2222-638-70689 Kemet Philips Kemet Philips"
+   ]
+  },
+  {
+   "heading": "C21 C22 C23 C24 C25",
+   "paragraphs": [
+    "6 8 pF 10 uF/25 150 uF / 6 V"
+   ]
+  },
+  {
+   "heading": "2222-638-09688 T390C706M025AS T390E157M006A$",
+   "paragraphs": [
+    "Kemet Delete Capacitor 680 pF Philips 2222-630-03681 C26 C27 C28 C2g C30 47 pF uF/ 35 V 470 pF 1 uF/35 V 6 8 p F 2222-638-70479 T390B105M035AS 2222-630-03471 T390B105M03545 2222-638-70689 Kemet Philips Kemet Philips"
+   ]
+  },
+  {
+   "heading": "C31 C32 C33 C34 C35",
+   "paragraphs": [
+    "6.8 pF 10 uF/25 V 150 uF / 6 V 2222-638-09688 7390c106m025as T390E157M006AS Kemet De Tete Capacitor 6 80 pF Philips 2222-630-03 681",
+    "PARTS LiSt"
+   ]
+  },
+  {
+   "heading": "C36 C37 C38 C39 C40",
+   "paragraphs": [
+    "Capacitor 47 pF uF/35 V 470 pF 1 uF/35 6 8 pF Philips Kemet Philips Kemet Philips 2222-638-70479 T390B105M035aS 2222-630-03471 T390B105M035As 2222-638-70689"
+   ]
+  },
+  {
+   "heading": "C41 C42 C43 C44 C45",
+   "paragraphs": [
+    "6.8 pF 10 uF/25 V 150 uF / 6 2222-638-09688 T390c106m025aS T390E157M0064S Kemet Delete Capacitor 150 uF / 6 V"
+   ]
+  },
+  {
+   "heading": "C46 C47 C48 C49 C50",
+   "paragraphs": [
+    "150 uF / 6 V 0 pF 0 pF 1 0 uF/25 150 uF / 6 Philips 2222-638-10109 Kemet"
+   ]
+  },
+  {
+   "heading": "C51 C52 C53 C54",
+   "paragraphs": [
+    "150 uF / 6 0 pF 10 pF 10 uF/25 V Philips 2222-638-10109 Kemet T390C106m025A$"
+   ]
+  },
+  {
+   "heading": "CRI CR2",
+   "paragraphs": [
+    "Diode Motoro ]a 1n4003 Transistor Nationa]"
+   ]
+  },
+  {
+   "heading": "2N 4401",
+   "paragraphs": [
+    "8 6 86 8 R1/2 R3/4 R5 / 6 R7 / 8 R9 Potentiometer Bourns"
+   ]
+  },
+  {
+   "heading": "WBS 10-013",
+   "paragraphs": [
+    "De Tete"
+   ]
+  }
+ ]
+}

@@ -13,6 +13,140 @@ Ward-Beck Systems M457, 1975|8. Wiki page: [M457 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 24 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 100 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [17 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1975 - M457 - Pre-Mixer Module.pdf](MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module.pdf) page 5 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Input sensitivities** |  |
+| &nbsp;&nbsp;Line | Mic: -15 to +15 dBm (ref 600 ohms 60 to -30 dBm ref 150 ohms source): source (Sensitivity continuous Ty adjustab 1e over 30 dB range.) |
+| **Gain** |  |
+| &nbsp;&nbsp;Line | Mic: 15 dB maximum (matched gain) 60 dB maximum (transducer gain) |
+| **Frequency response** | f1.0 dB from 30 Hz to 20 kHz (tailored ro]1-0 ff) |
+| **Noise** | -122 dBm EIn at maximum SENSITIVity (20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 0, 5% THD from 50 Hz to 15 kHz at +18 dBm output. |
+| **Input levels** |  |
+| &nbsp;&nbsp;Line | at maximum sensitivity: at minimum sensitivity -15 dBm nomina] +15 dBm nomina 1 +10 dBm maximum_ +30 dBm maximum |
+| &nbsp;&nbsp;Mic | at maximum sensitivity: at minimum sensitivity: 60 dBm nomina 1 -35 dBm maximum. -30 dBm nomina ] -8 dBm maximum |
+| **Input impedances** |  |
+| &nbsp;&nbsp;Line | Mic: 30 000 ohms 750 ohms |
+| **Source impedances** |  |
+| &nbsp;&nbsp;Line mic | 150/600 ohms ba Tanced/unba ]anced_ 150 ohms ba anced/unba Lanced |
+| &nbsp;&nbsp;Output level | 10 dBm nomina ] +22 dBm max imum_ I -1 |
+
+## Circuit description
+
+From [1975 - M457 - Pre-Mixer Module.pdf](MANUALS/1975%20-%20M457%20-%20Pre-Mixer%20Module.pdf) pages 7-12 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**42 PRE-MIXER**
+
+The M457 PRE-MIXER is intended to accept four separate microphone or Tine inputs and combine them 1n the desired proportion to produce an output 5 igna 1 Two separate output buses are provided ('A and B '). Each preampli fier can feed either one or both output buses as maybe required Preamplifiers Four identical Preamplifiers are contained in the M457 to ilustrate preamp] i fier number consists of Q1 Q2, 21 and associated components _ R2 is continuous Ty variable SENSItIVIty contro] permitting 30 dB input Teve] variation in order to accommodate constant MIXER LEVEL contro] settings _ Thus the SENSITiVity contro 1 permits operation with microphone Teve] s from -60 to -30 dBm or ine Teve] s from -15 to +15 dBm. RI is the MIXER LEVEL contro] norma ] ly positioned with 10 dB &quot;in hand&quot; When the Tine input is to be used 150 ohm resistor is externa ]Iy connected across pins and A of the edge connector The amplifier wil] then present bridging input 30k ohm) to the source External Summing Inputs 27/28 and 25/26 allow for externa ] summing or combining inputs to be injected into theA and B mixing buses respectively _ These inputs are designed to accept the outputs of other M457 pre-mixers In this way, it is possible to form 8 X2, 12X2 or Target pre-mixer groups 5 -101A BOOSTER Amplifier The 5 -101A DUAL BOOSTER AMPLIFIER mixes the four Preamp] i fier outputs as well a $ the outputs of 25/26 and 27/28 Assignment switches SwI through Sw8 determine the routing of the preampli fier outputs to either A and/or B mixing buses The 'A and B outputs of the 5 -101A appear at pins 17/U and 16 /T respectively The output level at these points is -10 dBm nomina Tly.
+
+**4X2 PRE-MIXER**
+
+Summing outputs for buses 'A and Bare brought out at pins 14/R and 15/S Thes terminals maybe para ] Te 1ed with the 5 umming outputs of other pre-mixers to form pre-mixer groups a $ explained earlier and may subsequently be fed to termina ] s 12/N and 11/M of another pre-mixer the output of which Will then produce the combined mix of aj1 inputs_ Alternatively the para ]elTed suMMing outputs maybe used to feed an M457A MASTER MIXER or any other suitable summing input within the console system Power Supply Decoupling C1 through C4 together with RI1 and R12 form passive on-board power supply decoup] ing circuit CRI and CR2 prevent modu ]e damage in the event of accident] po Parity reverse]
+
+**WM 12IN**
+
+15/5
+
+**12 X2 PRE-MXER**
+
+12 1
+
+**M 1**
+
+11/m 12IN
+
+OUTPUt (-10 dBm)
+
+**1 16L1**
+
+B&quot; OUTPUT (-10 dBm) 8X2 PRE_MXER with MASTER output 11/M 12/n 15/5
+
+**6 F**
+
+OUtPut (+8 dBm)
+
+**11/M 12/N**
+
+15/5 2/8 40
+
+B&quot; OUTPUt (+8 dBm)
+
+**PART**
+
+DESCRIPTIOn
+
+**MFG PART NUMBER**
+
+Capacitor 22 uF/25 V Siemens
+
+**B41313-45226-2**
+
+0 E6 C9 C10 C11 C12 C]3 C14 C15 100 uF/25 V Philips
+
+**426ETF]00**
+
+680 pF 2222-630-03681 47 pF uF/35 470 pF uF/ 35 V 68 pF 2222-638-70479 T390B105M0354S 2222-630-03471 T390B105M035AS 2222-638-70689 Kemet Philips Kemet Philips 6.8 pF 10 uF/25 V 150 uF/ 6 V 2222-638-09688 T390C106M025AS T390E157m006as Kemet Delete Capacitor 680 pF Philips 2222-630-03681
+
+**C]6 C17 C18 C19 C20**
+
+47 pF uF/35 V 470 pF 1 uF/35 V 68 pF 2222-638-70479 T390B105M035AS 2222-630-03471 T390B105M035AS 2222-638-70689 Kemet Philips Kemet Philips
+
+**C21 C22 C23 C24 C25**
+
+6 8 pF 10 uF/25 150 uF / 6 V
+
+**2222-638-09688 T390C706M025AS T390E157M006A$**
+
+Kemet Delete Capacitor 680 pF Philips 2222-630-03681 C26 C27 C28 C2g C30 47 pF uF/ 35 V 470 pF 1 uF/35 V 6 8 p F 2222-638-70479 T390B105M035AS 2222-630-03471 T390B105M03545 2222-638-70689 Kemet Philips Kemet Philips
+
+**C31 C32 C33 C34 C35**
+
+6.8 pF 10 uF/25 V 150 uF / 6 V 2222-638-09688 7390c106m025as T390E157M006AS Kemet De Tete Capacitor 6 80 pF Philips 2222-630-03 681
+
+PARTS LiSt
+
+**C36 C37 C38 C39 C40**
+
+Capacitor 47 pF uF/35 V 470 pF 1 uF/35 6 8 pF Philips Kemet Philips Kemet Philips 2222-638-70479 T390B105M035aS 2222-630-03471 T390B105M035As 2222-638-70689
+
+**C41 C42 C43 C44 C45**
+
+6.8 pF 10 uF/25 V 150 uF / 6 2222-638-09688 T390c106m025aS T390E157M0064S Kemet Delete Capacitor 150 uF / 6 V
+
+**C46 C47 C48 C49 C50**
+
+150 uF / 6 V 0 pF 0 pF 1 0 uF/25 150 uF / 6 Philips 2222-638-10109 Kemet
+
+**C51 C52 C53 C54**
+
+150 uF / 6 0 pF 10 pF 10 uF/25 V Philips 2222-638-10109 Kemet T390C106m025A$
+
+**CRI CR2**
+
+Diode Motoro ]a 1n4003 Transistor Nationa]
+
+**2N 4401**
+
+8 6 86 8 R1/2 R3/4 R5 / 6 R7 / 8 R9 Potentiometer Bourns
+
+**WBS 10-013**
+
+De Tete
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
