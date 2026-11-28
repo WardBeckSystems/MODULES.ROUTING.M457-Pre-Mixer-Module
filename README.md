@@ -176,6 +176,15 @@ Shared privately on Google Drive (opens after sign-in): [1975|8 · 457-04-005 - 
 
 Not on Google Drive yet: `1977 - 457-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M457.stl`](MECHANICAL/M457.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M457)
+
+- **Size:** 40.93 × 154.09 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 12 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M457 - front panel.svg`)
+- the drawn panel is 0.22 wide to high, the size 0.27: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M457.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
