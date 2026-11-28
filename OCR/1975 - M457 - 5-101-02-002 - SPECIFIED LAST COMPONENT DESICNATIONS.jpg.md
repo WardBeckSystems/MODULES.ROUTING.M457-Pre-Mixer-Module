@@ -1,5 +1,5 @@
 # 1975 - M457 - 5-101-02-002 - SPECIFIED LAST COMPONENT DESICNATIONS.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

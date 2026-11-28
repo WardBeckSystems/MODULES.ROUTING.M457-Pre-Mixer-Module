@@ -1,5 +1,5 @@
 # 1977 - 457-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1977 (title block date)

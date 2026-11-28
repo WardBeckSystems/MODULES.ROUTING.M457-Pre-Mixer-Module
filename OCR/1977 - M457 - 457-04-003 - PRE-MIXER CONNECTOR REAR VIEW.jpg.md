@@ -1,5 +1,5 @@
 # 1977 - M457 - 457-04-003 - PRE-MIXER CONNECTOR REAR VIEW.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1977 (found in this file: "DATE APR 77")

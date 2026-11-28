@@ -1,5 +1,5 @@
 # 1975 - 457-02-003 - M457A SCHEMATIC MODIFIED FOR I C INPUT (FOR PROJ. No 74030 - STUDIO 4 - DRN DM.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1975 (title block date)

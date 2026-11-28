@@ -1,5 +1,5 @@
 # 19xx - M457 - Application Examples M457 Pre-Mixer.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** unknown (title block (read by eye))

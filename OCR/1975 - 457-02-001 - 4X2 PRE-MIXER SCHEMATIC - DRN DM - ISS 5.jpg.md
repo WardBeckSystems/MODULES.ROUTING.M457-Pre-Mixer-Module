@@ -1,5 +1,5 @@
 # 1975 - 457-02-001 - 4X2 PRE-MIXER SCHEMATIC - DRN DM - ISS 5.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1975 (title block date)

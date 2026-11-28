@@ -1,5 +1,5 @@
 # 1977 - 457-01-002 - PRE-MIXER MASTER MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1977 (title block date)

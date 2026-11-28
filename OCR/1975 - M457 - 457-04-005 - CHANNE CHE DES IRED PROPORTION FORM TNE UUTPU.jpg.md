@@ -1,5 +1,5 @@
 # 1975 - M457 - 457-04-005 - CHANNE CHE DES IRED PROPORTION FORM TNE UUTPU.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

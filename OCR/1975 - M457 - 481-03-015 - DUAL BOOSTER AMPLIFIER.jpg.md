@@ -1,5 +1,5 @@
 # 1975 - M457 - 481-03-015 - DUAL BOOSTER AMPLIFIER.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

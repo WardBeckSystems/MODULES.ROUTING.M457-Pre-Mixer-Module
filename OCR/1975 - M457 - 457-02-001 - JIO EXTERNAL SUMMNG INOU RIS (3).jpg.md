@@ -1,5 +1,5 @@
 # 1975 - M457 - 457-02-001 - JIO EXTERNAL SUMMNG INOU RIS (3).jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

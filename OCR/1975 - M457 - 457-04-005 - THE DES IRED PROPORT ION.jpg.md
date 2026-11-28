@@ -1,5 +1,5 @@
 # 1975 - M457 - 457-04-005 - THE DES IRED PROPORT ION.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

@@ -1,5 +1,5 @@
 # 1975 - M457 - 461-03-015 - ZOIAN ALL TRANSISTORS ARE.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

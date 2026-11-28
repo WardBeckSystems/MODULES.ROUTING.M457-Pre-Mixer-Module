@@ -1,6 +1,6 @@
 # M457 Pre-Mixer Module · Routing
 
-Ward-Beck Systems M457, 1975|8. Wiki page: [M457 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M457.html)
+Ward-Beck Systems M457, 1975|8. Wiki page: [M457 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M457-Pre-Mixer-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

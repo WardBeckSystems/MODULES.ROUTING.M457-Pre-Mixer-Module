@@ -1,5 +1,5 @@
 # 1975 - 457-02-002 - PRE-MIXER MASTER MODULE SCHEMATIC - DRN DM - ISS 3.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1975 (title block date)

@@ -1,5 +1,5 @@
 # 1975 - M457 - 2x2 Pre-Mixer Module.jpg
-Wiki page: [M457](../../../../PAGES/M457.md)
+Wiki page: [M457](../)
 
 
 - **Year:** 1975 (module estimate (labelled))
